@@ -1,0 +1,833 @@
+﻿Event_ID,Source,Date,Time,Flight_Number,Orig,Dest,Fleet,Ship_Number,EDR_EQUIP,EDR_Min,EDR_Peak,Location,Turb_Level,G_Load,,Injury_1,Recordable_1,OSHA_1,Injury_2,Recordable_2,OSHA_2,Injury_3,Recordable_3,OSHA_3,Injury_4,Recordable_4,OSHA_4,Injury_5,Recordable_5,OSHA_5,Injury_6,Recordable_6,OSHA_6,Altitude,Flight_Phase,P1,P2,P3,P3A,P4,P5,P6,Comments
+TRB16001,Unknown,1-Jul-16,,0201,JNB,ATL,777,7103,,,,-5.49358635877378/-7.49392903404095,1,1.203125,0.92578125(0.10180351333023),-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,-5.49358635877378/-7.49392903404095,34311.13793,Cruise,,,,,,,,"STARS report with turb, no injury report, no pilot report InFlight will contact Flight Attendant. FOQA did not detect turbulence on this flight. FOQA flight record 5848791."
+TRB16002,,2-Jul-16,03JUL16 0100Z,2004,LAX,SLC,320,3215,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 5867748.
+TRB16003,,5-Jul-16,,0853,DTW,RSW,M90,9231,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,Conflicting reports on question F4. FOQA did not detect turbulence on this flight. FOQA flight record 5867748.
+TRB16004,,5-Jul-16,05JUL160445Z,0083,CDG,ATL,777,7101,,,,33.6219925114762/-84.060164927286,1,1.32421875,1.11328125(0.103516007710595),FA,Y,Y,,,,,,,,,,,,,,,,3038.549444,Approach,,,,,,,,FOQA did not detect turbulence during this flight. FOQA flight record 5911714.
+TRB16005,,6-Jul-16,,2128,DTW,MCO,757,6710,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,,,,,,,,,,Discrepancy on flight leg as to DTW-MCO or MCO-DTW. Non-FOQA aircraft.
+TRB16006,FOQA,6-Jul-16,06JUL160156181Z,0603,MSP,JAC,757,0678,,,,45.9382314293007/-102.732228185402,3,1.710753441,-0.134033918380737(0.44270113163408),0,,,,,,,,,,,,,,,,,,38047.637,Cruise,3,,Y,,Y,,Y,"Pilot report of severe, Flight deviated NW prior to the event (WX), We never received so much as a text msg from dispatch regarding our deviation to the north. There needs to be better communication from dispatch, our Surfaces are too slow and old. I was unable to get my turb plots on the dl weather app. FOQA flight record 5876177."
+TRB16007,,7-Jul-16,,0060,GIG,ATL,767,1808,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence during this flight. FOQA flight record 5886700.
+TRB16008,FOQA,8-Jul-16,23.7843,0085,CDG,ATL,330,3315,,,,33.7456800670654/-83.961791243,1,1.3046875,0.7734375(0.120154711188891),FA,N,N,,,,,,,,,,,,,,,,7883.382,Descent,1,,,,,,,FOQA flight record 5874364.
+TRB16009,,9-Jul-16,,0124,BOS,AMS,767,1819,1.00,,0.06,,,,,FA,N,N,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence during this flight. FOQA flight record 5914361.
+TRB16010,,9-Jul-16,,1305,ATL,RSW,737,3821,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 5876000.
+TRB16011,,10-Jul-16,,0425,JFK,MSP,320,3225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence during this flight. FOQA flight record.
+TRB16012,FOQA,11-Jul-16,4.38788,0110,EZE,ATL,767,1816,,,,-0.108061931080314/-71.5681338157979,1,1.446427822,0.663460731506348(0.177204757391193),FA,,,,,,,,,,,,,,,,,,34019.941,Cruise,1,,,,,,Y,"Pilot reports FA stated that when I told them to sit down, they left the cart sitting out and were putting it away when it tipped over trapping FA hand between the cart and a beverage tray in another cart. FOQA flight record 5902858)"
+TRB16013,,12-Jul-16,,0514,SAN,ATL,757,6710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16014,,13-Jul-16,,0276,MNL,NRT,747,6308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Flight not captured by FOQA.
+TRB16015,,13-Jul-16,,0276,NRT,DTW,747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16016,,14-Jul-16,,0526,DCA,ATL,M90,9214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture this flight.
+TRB16017,FOQA,14-Jul-16,21.9575,1115,ATL,PHX,737,3812,,,,33.6552104633323/-84.5070260049994,1,1.137362003,0.757325172424316(0.113315863318603),FA,,,,,,,,,,,,,,,,,,3069.63,Climb,1,,Y,,,,,"Pilot Reports ""She said it was not due to bumpy ride (seat belt sign was on) but was due to instability of narrow cart when she tried to push the cart ""over the hump"". FOQA flight record 5895548."
+TRB16018,,16-Jul-16,,0056,SLC,AMS,767,0188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16019,FOQA,19-Jul-16,19JUL16 20.6924,0328,SXM,JFK,757,0679,,,,35.9873443189048/-70.0186577426723,3,1.463561058,0.435881853103638(0.336857549567533),FA,,,,,,,,,,,,,,,,,,38000,38364.288,3,,Y,,,,,FOQA flight record 5940021.
+TRB16020,,20-Jul-16,,1553,ATL,DFW,M88,0953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA unable to identify flight.
+TRB16021,,21-Jul-16,,1397,SEA,OGG,757,5640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture this flight.
+TRB16022,,21-Jul-16,,0058,BOS,LHR,767,0174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16023,FOQA,21-Jul-16,18.7747,1816,DEN,ATL,739,3835,,,,34.020008535048/-84.9908725334418,3,1.792123795,0.663460731506348(0.37359418268523),0,,,,,,,,,,,,,,,,,,13018.069,Descent,3,,,,,,,FOQA flight record 5916768.
+TRB16024,,22-Jul-16,,2542,ATL,JAN,717,9540,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 5960467.
+TRB16025,,22-Jul-16,,2472,ATL,CHS,737,3602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture this flight.
+TRB16026,,22-Jul-16,,0370,MGA,ATL,320,3259,,,,33.5553503459959/-84.2125334463821,1,1.425784826,0.859377145767212(0.149751327489844),,,,,,,,,,,,,,,,,,,4471.314558,Approach,,,,,,,,FOQA did not capture this flight.
+TRB16027,,24-Jul-16,,2337,ATL,DAY,M90,9219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Have pilot report for PAX whiplash for different flight leg (268683). FOQA did not capture this flight.
+TRB16028,,25-Jul-16,,0147,SLC,ATL,767,3819,,,,34.2847850736431/-84.9967186233282,1,1.256409645,0.693222999572754(0.128097305738973),,,,,,,,,,,,,,,,,,,,,,,,,,,,"FOQA flight record 5928253. FOQA detected light turbulence during: climb, cruise, and descent."
+TRB16029,,25-Jul-16,,0147,ATL,SCL,767,1603,,,,,,,,,,,,,,,,,,,,,,,,,,39256.72813,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16030,,26-Jul-16,,0612,NGO,HNL,767,0188,,,,,,,,,,,,,,,,,,,,,,,,,,11216.18076,Descent,,,,,,,,Non-FOQA aircraft.
+TRB16031,,29-Jul-16,,0763,DTW,EWR,320,3274,,,,,,,,,,,,,,,,,,,,,,,,,,8105.517863,Approach,,,,,,,,FOQA did not capture this flight.
+TRB16032,,30-Jul-16,,1820,ATL,SLC,757,0670,,,,,,,,,,,,,,,,,,,,,,,,,,1525.592924,Approach,,,,,,,,FOQA did not capture this flight.
+TRB16033,Pilot ASAP,31-Jul-16,31JUL161445,0278,KIX,HNL,747,6310,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,3008.139358,Approach,2,Y,Y,,,,,FOQA did not capture this flight.
+TRB16034,FOQA,31-Jul-16,21.1309,1861,LIT,ATL,319,3148,,,,34.5099156855279/-86.8959737136766,1,1.351565838,0.753908157348633(0.12695161118867),0,,,,,,,,,,,,,,,,,,29087.952,Cruise,1,,Y,,Y,,,FOQA flight record 5957085.
+TRB16035,FOQA,26-Jul-16,13.6527,1246,JAC,SLC,319,3165,,,,40.9449273145638/-112.015359225856,2,1.300784469,0.449219882488251(0.248342325291374),0,,,,,,,,,,,,,,,,,,6706.105,Approach,2,,,,,,,FOQA flight record 5976672.
+TRB16036,Pilot ASAP,19-Jul-16,19JUL16 2150,0131,ATL,MEX,73W,3603,,,,,,,,0,,,,,,,,,,,,,,,,,,4081.42433,Climb,2,,Y,,Y,10,Y,FOQA did not capture this flight.
+TRB16037,Pilot ASAP,14-Jul-16,14JUL16 2045,0721,BNA,ATL,319,3169,,,,35.5119812289897/-86.4209248034283,1,1.160159111,0.621095299720764(0.126415550802911),0,,,,,,,,,,,,,,,,,,8093.567196,Climb,2,Y,Y,,Y,,,FOQA did not detect turbulence during this flight. FOQA flight record 5939828.
+TRB16038,Pilot ASAP,11-Jul-16,12JUL16 0035,0617,SLC,CLT,320,3273,,,,,,,,0,,,,,,,,,,,,,,,,,,35167.58071,Cruise,2,,Y,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 5915071.
+TRB16039,Pilot ASAP,10-Jul-16,11JUL16 0230,2250,ATL,YYZ,717,9530,,,,,,,,0,,,,,,,,,,,,,,,,,,2014.321676,Approach,2,,,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 5932444.
+TRB16040,FOQA,6-Jul-16,18.2813,0392,PTY,ATL,738,3739,,,,33.1640514186519/-83.8585977679389,3,1.989010334,0.722984790802001(0.315189819410017),0,,,,,,,,,,,,,,,,,,4736.645,Approach,3,,,,,,,FOQA flight record 5881927.
+TRB16041,Pilot ASAP,5-Jul-16,05JUL16 1700,1156,PDX,ATL,739,3816,,,,33.7329553431604/-84.4127733325774,1,1.249541283,0.727563381195068(0.141829318925648),,,,,,,,,,,,,,,,,,,2526.336449,Approach,2,,Y,,Y,,,FOQA did not detect turbulence on this flight. FOQA flight record 5852998.
+TRB16042,Pilot ASAP,1-Jul-16,01JUL16 2113,2576,SLC,IAH,319,,,,,,,,,0,,,,,,,,,,,,,,,,,,31963.26677,Cruise,2,,Y,,Y,,,
+TRB16043,,1-Aug-16,,0031,LHR,ATL,767,0175,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,33457.75481,Cruise,2,,Y,,Y,,Y,Non-FOQA aircraft
+TRB16044,,3-Aug-16,,0349,UVF,ATL,737,3807,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,26289.59656,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16045,,4-Aug-16,,0219,CPH,JFK,767,1521,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,2986.415927,Approach,,,,,,,,Non-FOQA aircraft.
+TRB16046,,4-Aug-16,,1464,MSP,DCA,M88,9013,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,1940.331503,Approach,,,,,,,,
+TRB16047,,6-Aug-16,,0477,JFK,LAX,757,6809,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,12245.66641,Climb,,,,,,,,Non-FOQA aircraft.
+TRB16048,,5-Aug-16,,0193,VCE,ATL,767,1816,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,29068.90933,Cruise,,,,,,,,FOQA did not capture this flight.
+TRB16049,,6-Aug-16,,0466,JFK,TLV,777,7006,,,,32.6050009501231/33.9545845489622,1,1.30859375,0.76171875(0.12291714455187),FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture this flight.
+TRB16050,,7-Aug-16,,9827,,,757,,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,9755.553548,Climb,,,,,,,,
+TRB16051,FOQA,7-Aug-16,23.5059,0176,MSP,ATL,757,5807,,,,33.6493953304358/-84.5929965952897,1,1.48873806,0.735716819763184(0.193758935034755),FA,Y,Y,,,,,,,,,,,,,,,,4208.515,Approach,1,,,,,,,FOQA flight record 5980848.
+TRB16052,,12-Aug-16,,1361,MSP,BWI,319,3124,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,25784.71668,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16053,,11-Aug-16,,0263,SAN,MSP,767,0129,,,,,,,,FA,N,Y,,,,,,,,,,,,,,,,13008.56927,Descent,,,,,,,,Non-FOQA aircraft.
+TRB16054,FOQA,12-Aug-16,10.5829,0413,JFK,ATH,330,3326,,,,37.8487266416839/23.8491874621547,1,0.82421875,0.7890625(0.100265026564534),FA,N,Y,,,,,,,,,,,,,,,,2036.623,Approach,1,,,,,,,FOQA flight record 5975407.
+TRB16055,Pilot ASAP,15-Aug-16,11AUG16 1215,0283,NRT,BKK,767,,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,16084.39043,Descent,2,,,,N,,,ASAP report is for a flight on the 11th not the 15th. 
+TRB16056,,22-Aug-16,,0003,LHR,JFK,767,1605,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,11066.33158,Descent,,,,,,,,Non-FOQA aircraft.
+TRB16057,,16-Aug-16,,0421,SEA,JFK,757,6818,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,35169.9354,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16058,,23-Aug-16,,1654,LAX,ATL,767,0129,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,37321.67642,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16059,FOQA,19-Aug-16,19.0516,0137,AMS,DTW,767,1810,,,,42.3879238732261/-83.0551101181641,1,1.222068787,0.894688129425049(0.111584623900281),FA,Y,N,,,,,,,,,,,,,,,,6798.574,Approach,1,,,,,,,This flight occurred on 08/19/2016 and not 08/17/2016 as origiinally indicated. FOQA flight record 6010408.
+TRB16060,,19-Aug-16,,0557,DTW,MEX,757,0671,,,,19.3963018619599/-99.1399553085715,1,1.095061302,0.751738548278809(0.115731960000724),FA,N,Y,,,,,,,,,,,,,,,,0,0,,,,,,,,
+TRB16061,,19-Aug-16,,0066,ATL,ZRH,767,1613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16062,FOQA,19-Aug-16,20.7335,0065,FCO,ATL,330,3324,,,,34.2333714077503/-83.9165126028577,3,1.328125,-0.0234375(0.423980364937812),FA,N,N,,,,,,,,,,,,,,,,13510.756,Descent,3,,,,,,,This flight occurred on 08/19/2016 and not 08/21/2016 as originally indicated. FOQA flight record 6001740.
+TRB16063,Pilot ASAP,22-Aug-16,21AUG16 1124,0043,BRU,JFK,767,0184,,,,,,,,FA,Y,N,,,,,,,,,,,,,,,,,,2,,Y,,,,,Non-FOQA aircraft.
+TRB16064,,23-Aug-16,,0601,MSP,FCA,320,3240,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture this flight.
+TRB16065,,24-Aug-16,,0615,NRT,SIN,767,0191,,,,,,,,FA,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16066,,23-Aug-16,,2599,BNA,ATL,M88,9585,,,,,,,,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16067,,25-Aug-16,,2328,DEN,JFK,319,3130,,,,,,,,FA,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence on this flight. FOQA flight record 6028796.
+TRB16068,"STARS, SRS",26-Aug-16,27AUG16 1350,0127,AMS,BOS,764,1818,,,0.44,CPT | Central England,3,,,FA,Y,N,,,,,,,,,,,,,,,,34000,Cruise,3,,Y,,,,,"EDR report with peak of 0.44 or heavy 2. First notification of SVR pirep came in ACARS 2.5 hrs after event. Event was 08/27 not 8/26 as listed. | FA was not injured, only shaken up"
+TRB16069,STARS,27-Aug-16,27AUG16 1335,1782,MSO,MSP,320,3221,,,,VCNTY MSP | VCNTY MSP (estimated),3,,0.734376847743988(0.133648966206857),FA,Y,Y,,,,,,,,,,,,,,,,8500,,,,,,,,,Rain showers on descent. Timing based on STARS. 
+TRB16070,,26-Aug-16,26AUG16 1547,1506,LAX,DTW,757,5638,,,,FQF,,,,FA,,,,,,,,,,,,,,,,,,37000,,,,,,,,,Below TP Criteria
+TRB16071,,27-Aug-16,24AUG16 1752,0131,MUC,ATL,764,1816,,,0.3,35.3N82.8W,,,0.594779491424561(0.180190094805544),FA,,,,,,,,,,,,,,,,,,38000,,,,,,,,,One EDR rpt for one minute. Below TP Criteria. Event is 08/24 not 08/27
+TRB16072,"STARS, SRS",26-Aug-16,26AUG16 2105,0903,SJO,ATL,757,0694,,,,UVA,2,,0.756316184997559(0.13228668010238),FA,Y,N,,,,,,,,,,,,,,,,34000 | 38000,Cruise,2,,Y,,Y,,Y,One report of lt. chop.  | NO FA injuries
+TRB16073,"STARS, SRS",27-Aug-16,27AUG16 1350,0127,AMS,BOS,764,1818,,,0.44,CPT | Central England,3,,,FA,Y,N,,,,,,,,,,,,,,,,34000,Cruise,3,,Y,,,,,"EDR report with peak of 0.44 or heavy 2. First notification of SVR pirep came in ACARS 2.5 hrs after event. | FA was not injured, only shaken up. Same exact flight as in row 75"
+TRB16074,STARS,27-Aug-16,,0086,DTW,FRA,330,3358,,,,,2,,0.8046875(0.103914363802427),FA,Y,N,FA,Y,N,,,,,,,,,,,,,,,,,,,,,,No Pireps and no timing in STARS. Inconclusive event | No mention of turbulence at all in the ASAP report
+TRB16075,,28-Aug-16,29AUG16 0048,0472,GRU,JFK,767,0199,,,0.04,23.4S46.4W | 23.4S46.4W (estimated),2,,,FA,Y,Y,,,,,,,,,,,,,,,,4700,,,,,,,,,Below TP Criteria
+TRB16076,STARS,30-Aug-16,,0134,DTW,AMS,330,3359,,,,,2,,0.5390625(0.16225300182819),FA,N,N,FA,Y,N,FA,Y,N,,,,,,,,,,,,,,,,,,,Only 2 pireps. A Lgt and Lgt Chop reported. 
+TRB16077,STARS,31-Aug-16,,2064,SDF,ATL,M88,0972,,,,,2,,,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,No Pireps and no timing in STARS. Below TP Criteria and unknown location. 
+TRB16078,,31-Aug-16,,0846,PHX,ATL,737,3835,,,,,3,,,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,No info received concerning this event.
+TRB16079,"STARS, SRS",1-Sep-16,02SEP16 0015,0883,ATL,LAX,767,1402,,,,40 S FLG,3,,,FA,Y,Y,FA,Y,Y,,,,,,,,,,,,,,,,,,,,,,Alert TP issued 4 hrs before encounter. 
+TRB16080,,3-Sep-16,,0401,JFK,LHR,767,1606,,0.1,0.18 AND 0.22,52N/27W (assumed),,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,Inconclusive timing of event. 
+TRB16081,,3-Sep-16,03SEP16 0945,0836,HNL,ATL,330,3305,,,,VCNTY MEM,,,0.953125(0.164081479382572),FA,,,,,,,,,,,,,,,,,,38000,,,,,,,,,
+TRB16082,,3-Sep-16,3SEP162300,0230,RDU,CDG,757,6814,,,,EAST of BOS,3,,,FA,N,N,,,,,,,,,,,,,,,,37000,Cruise,,,Y,,N,,N,Ongoing investigation
+TRB16083,FOQA,10-Aug-16,11AUG16 0045,0642,MEX,SLC,319,3166,,,,40.2079798721861/-111.952347932905,2,1.398440957,0.488282471895218(0.251095652533398),,Y,N,,,,,,,,,,,,,,,,10039.424,DESCENT,2,,,,,,,FOQA flight record 6004791.
+TRB16084,,21-Aug-16,22AUG16 0700,0673,ATL,UIO,757,6712,,,,,,,,,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16085,Pilot ASAP,31-Aug-16,31AUG16 0300,0060,GIG,ATL,767,0172,,,,400mi north of GiG,2,,,FA,,,,,,,,,,,,,,,,,,32000,Cruise,2,,,,Y,,Y,Lack of ride reports and moonless night make it very difficult to see cloud tops. No radar returns caught us unaware of possible bad ride.
+TRB16086,FOQA,3-Aug-16,03AUG1621.0741,0903,SJO,ATL,757,0690,,,,20.306889705974/-82.3448221155968,2,1.793150902,0.445037126541138(0.277045069094594),FA,,,,,,,,,,,,,,,,,,36119.023,Cruise,2,,,,N,,N,Radar returns were only green and we were well clear of them.  FOQA flight record 5967358.
+TRB16087,Pilot ASAP,4-Aug-16,04AUG161250,1497,PHL,MSP,319,3146,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,On final at 15 miles we were in the clear and had no warning of the weather ahead except for the rain on the radar. FOQA did not capture this flight.
+TRB16088,Pilot ASAP,9-Aug-16,09AUG160200,2016,ATL,DEN,M90,9253,,,,,,,,0,,,,,,,,,,,,,,,,,,,,3,,Y,,Y,,,Windshear. FOQA did not capture this flight.
+TRB16089,Pilot ASAP,10-Aug-16,10AUG160200,2107,MSP,ORD,737,3738,,,,,,,,0,,,,,,,,,,,,,,,,,,,,2,,,,,,," While the radar showed a clear path for our flight south, it ended up not being the case.  I think a better understanding and more practice with the -800 radar will make my use of the radar in similar situations more useful. FOQA did not capture this flight."
+TRB16090,FOQA,11-Aug-16,12AUG162.4576 ,2845,MSP,RAP,320,3244,,,,44.9167766430555/-100.287819593307,1,1.265628219,0.878908455371857(0.112871389832162),0,,,,,,,,,,,,,,,,,,30853.708,Cruise,1,Y,Y,,Y,,Y,I was unable to provide a PIREP to the company due to workload.  We were obviously in communication with ATC and other aircraft about the ride conditions.  Many times during flights we get TPs forwarded to us by dispatch--sometimes useful.  We definitely did not receive any inflight TPs. FOQA flight record 6006112.
+TRB16091,Pilot ASAP,20-Aug-16,20AUG160400,0499,JFK,SDQ,737,3760,,,,,,,,0,,,,,,,,,,,,,,,,,,,,3,,,,,,,This was the worst ride in my life. FOQA did not capture this flight.
+TRB16092,Pilot ASAP,21-Aug-16,21AUG161000,0308,LAX,CUN,737,3722,,,,,,,,0,,,,,,,,,,,,,,,,,,,,2,,Y,,Y,,Y, Stick Shaker-nothing was painting on the radar but light green in the area where this happened. FOQA did not capture this flight.
+TRB16093,,22-Aug-16,22AUG160730,0673,GYE,PTY,757,6712,,,,,,,,0,,,,,,,,,,,,,,,,,,,,3,,,,,,,Stick Shaker. Non-FOQA aircraft.
+TRB16094,FOQA,23-Aug-16,23AUG1623.6189,1338,SJC,SLC,320,3272,,,,40.615736762072/-112.073637288543,1,1.273440719,0.910158514976501(0.112149753018626),1,,,,,,,,,,,,,,,,,,9017.545627,Approach,1,,,,,,,Overspeed. FOQA flight record 6023237.
+TRB16095,Pilot ASAP,25-Aug-16,25AUG161820,0686,ATL,SDQ,737,3863,,,,Downwind of RWY 30 | 18.3225738983077/-69.7584215868312,2 | 1,2 | 1.45329570770264,0.64972448348999(0.14085864495048),2,,,,,,,,,,,,,,,,,,4000 | 3568.88148645433,approach | Descent,2,,,,,,,Flap overspeed
+TRB16101,STARS,7-Sep-16,,1545,ATL,LAS,757,5802,,,,CDS,2,,0.360350847244263(0.194717895609705),FA,N,,,,,,,,,,,,,,,,,360,Cruise,,,,,,,,Unexpected turbulence
+TRB16102,"STARS, SRS",7-Sep-16,,2499,SLC,MSP,320,3238,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,DESCENT,,,,,,,,
+TRB16103,STARS,7-Sep-16,,2624,IND,MSP,319,3120,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,No SRS,,,,,,,,Unexpected turbulence
+TRB16104,"STARS, SRS",8-Sep-16,,0622,NRT,PDX,767,1703,,0.12,0.16,,2,,,FA,N,,,,,,,,,,,,,,,,,32000,Cruise,2,,Y,,Y,3-5 min,,
+TRB16105,"STAR, SRS",8-Sep-16,,0186,PVG,LAX,777,7101,,,,20W OF PABBA | 20 miles West of PABBA fix,2,,-0.13671875(0.324174238774647),FA,N,,,,,,,,,,,,,,,,,330 | 33000,Cruise,2,Y,Y,,,,,Unexpected turbulence
+TRB16106,STARS,10-Sep-16,,0110,ATL,LAX,757,0698,,,,,1 | SMOOTH,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16107,STARS,11-Sep-16,,0028,ATL,LHR,764,1814,,0.08,0.12,,1 | LT CHOP,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16108,"STARS, SRS",12-Sep-16,,1669,ATL,MCO,757,0659,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,Unexpected turbulence
+TRB16109,"STARS, SRS",12-Sep-16,,1064,MCO,ATL,321,3003,,,,33.537059790832/-84.2952781817226,1,1.33984375,0.5546875(0.199924475894063),FA,N,,,,,,,,,,,,,,,,,11576.276,Descent,1,,,,,,,Were in process of securing galley | FOQA flight record 6067042.
+TRB16110,"STARS, SRS",12-Sep-16,,0549,ATL,SJU,737,3807,,,,18.4726/-66.2405 | 18.4725518620728/-66.2405372354589,1,1.24725 | 1.24725198745728,0.706959(0.141214) | 0.706959247589111(0.141214341724337),FA,N,,,,,,,,,,,,,,,,,3845.288,Descent,1,,,,,,,FOQA flight record 6067341.
+TRB16111,STARS,13-Sep-16,,0023,MUC,DTW,764,1820,,,,42.3538/-83.2577 | 42.3538283785214/-83.2577164876238,1,1.1478 | 1.14779649265894,0.834088(0.111629) | 0.834087806400632(0.111628549876612),FA,N,,,,,,,,,,,,,,,,,2980.341,Approach,1,,,,,,,FOQA flight record 6076086.
+TRB16112,,13-Sep-16,,29,LHR,ATL,764,1821,,,,55.8647/-14.526 | 55.8647337840725/-14.5259793348902,1,1.22665 | 1.22664737701416,0.649724(0.142249) | 0.64972448348999(0.142248955474914),FA,N,,,,,,,,,,,,,,,,,31951.61,Cruise,1,,,,,,,FOQA flight record 6074239.
+TRB16113,PIREPS,14-Sep-16,,413,MSP,JFK,319,3149,,,,40.6732/-73.8547 | 40.6731897892862/-73.6570245490941,1,1.21485 | 1.21484684944153,0.707033(0.101685) | 0.707033038139343(0.101685196628452),FA,Y,,,,,,,,,,,,,,,,,12618.37,Descent,1,,,,,,,FOQA flight record 6075628.
+TRB16114,,15-Sep-16,,609,GUM,NRT,757,6823,,,,35.0814/140.684 | 35.0813599124845/140.683589933232,3,1.34454 | 1.34454250335693,"""-0.0287483(0.382341)"" | -0.0287482738494873(0.382340992941287)",FA,Y,,,,,,,,,,,,,,,,,10626.233,Descent,3,,,,,,,FOQA flight record 6074422.
+TRB16115,,17-Sep-16,,136,DTW,AMS,330,3353,,,,44.25/-81.6522 | 44.2499519267872/-81.6522012195259,3,1.47266 | 1.47265625,1.15625(0.325573) | 1.15625(0.32557348578796),FA,N,,FA,Y,,,,,,,,,,,,,,32324.939,Cruise,3,,,,,,,FOQA flight record 6085327.
+TRB16116,,18-Sep-16,,198,ICN,SEA,767,1704,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16118,,19-Sep-16,,1611,PHL,SLC,757,6814,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-FOQA aircraft.
+TRB16119,,22-Sep-16,,836,HNL,ATL,330,3327,,,,21.2827265072611/-157.886378692285,1,1.19921875,0.8125(0.108258533406836),FA,N,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,
+TRB16120,EDR,21-Sep-16,,829,BOS,MSP,737,3763,,0.28,0.48,44.8N/92W | 50miles E of MSP,2,,,FA,Y,,,,,,,,,,,,,,,,,17000,Descent,2,,,,,,,
+TRB16121,,22-Sep-16,,57,AMS,SLC,767,0190,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,1,,Y,,,,,
+TRB16122,,23-Sep-16,,2420,DCA,SLC,737,3767,,,,,1 | SMOOTH,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16123,DUTY PILOT,23-Sep-16,,1802,SLC,DEN,320,3266,,,,40.4N/105.6W | 60nm nw DEN | 40.3697014500887/-105.535245043458,2,1.667972922,0.699220478534698(0.299414812629638),FA,Y,,,,,,,,,,,,,,,,,210 | 19000,Descent,2,,Y,,Y,,,
+TRB16124,,24-Sep-16,,1420,FLL,ATL,321,3010,,,,,3,,0.765625(0.165974477448253),FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16125,PIREPS,23-Sep-16,,1558,TPA,LAX,737,3751,,,,,1 | LGT CHOP,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16126,INTL SR TURNOVER LOG,25-Sep-16,,933,SLC,CUN,320,3211,,,,N OF CUN | OTOMO | 22.5080219017509/-87.4382496055914,2,2.187505484,-0.304688274860382(0.475341366586892),FA,Y,,FA,N,,FA,N,,FA,Y,,,,,,,,28000,Descent,2,,Y,,Y,,,
+TRB16127,PIREPS/STARS,20-Sep-16,,284,NRT,LAX,777,7110,,,,E NRT,2 | MOD,,,FA,N,,FA,N,,,,,,,,,,,,,,,,,,,,,,,
+TRB16128,,25-Sep-16,,1717,ORD,MSP,737,3760,,,,,,,,FA,N,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,
+TRB16129,,28-Sep-16,,902,SJO,ATL,737,3608,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16131,,29-Sep-16,,2003,ATL,ROA,319,3170,,,,,,,0.621095299720764(0.236480564698101),FA,,,,,,,,,,,,,,,,,,,,,,Y,,,,,
+TRB16132,,30-Sep-16,,2186,ATL,LGA,M90,9204,,,,33.6327015463999/-84.2810830354805,2,1.188,0.7788(0.124771185844141),FA,,,,,,,,,,,,,,,,,,,,2,Y,Y,,N,,,
+TRB16133,,2-Oct-16,,0950,,,M90,9206,,,,27.8914/-82.5459 | 27.8916874408173/-82.5458437886533,2,1.15 | 1.1506,.772 (.121) | 0.7568(0.121220942852362),FA,N,,,,,,,,,,,,,,,,,2014,Approach,2,,Y,,Y,,Y,
+TRB16134,,2-Oct-16,,2369,,,737,3830,,,,33.6289/-84.4888 | 33.6288908263571/-84.4887822466915,1,1.165 | 1.19230699539185,.860 (.1) | 1.16483449935913(0.100117846377964),FA,,,,,,,,,,,,,,,,,,2616,Climb,,,Y,,,,Y,
+TRB16135,Pilot ASAP,30-Sep-16,30SEP160030,325,ATL,SJO,737,3603,,,,Cuba,2,,,0,,,,,,,,,,,,,,,,,,,Cruise,2,,,,,,,
+TRB16136,Pilot ASAP,16-Sep-16,16SEP161820,41,LAX,SYD,777,7101,,,,Near Sydney,,,,FA,,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB16137,Pilot ASAP,29-Sep-16,29SEP160843,472,GRU,JFK,763,175,,,,NOSID,,,,FA,,,,,,,,,,,,,,,,,,36000,Cruise,,,,,,,,
+TRB16138,Pilot ASAP,25-Sep-16,25SEP162000,476,LAX,JFK,757,6813,,,,,2,,,FA,,,,,,,,,,,,,,,,,,39000,Cruise,2,Y,Y,,Y,,,
+TRB16139,Pilot ASAP,24-Sep-16,24SEP160130,2514,ATL,MCO,321,3007,,,,20nw of MCO | 28.7487843863584/-81.767614472364,3,1.4375,0.94921875(0.129179513687188),PAX,,,,,,,,,,,,,,,,,,,Descent,3,Y,Y,,Y,,,
+TRB16140,Pilot ASAP,23-Sep-16,23SEP160429,2577,SEA,ANC,737,3756,,,,YZT,,,,0,,,,,,,,,,,,,,,,,,40000,Cruise,,,,,,,,
+TRB16141,Pilot ASAP,23-Sep-16,23SEP162100,1817,ATL,DEN,M88,9264,,,,2 mile final to 16L DEN,2,,,0,,,,,,,,,,,,,,,,,,700,Approach,2,,,,,,,Event took place right after takeoff
+TRB16142,Pilot ASAP,23-Sep-16,23SEP162115,2329,ATL,SEA,737,3845,,,,YKM | 33.6662530003585/-84.3270068060448,2,1.251830578,0.999999523162842(0.107272734702455),0,,,,,,,,,,,,,,,,,,16000,Descent,2,,,,,,,
+TRB16143,Pilot ASAP,22-Sep-16,22SEP162200,1629,SAT,TWF,319,3123,,,,TWF,,,,0,,,,,,,,,,,,,,,,,,7000,Descent,,,Y,,,,,
+TRB16144,Pilot ASAP,22-Sep-16,22SEP160330,1801,SLC,SEA,737,3837,,,,YKM | 46.4794/-119.901 | 46.478769672827/-119.900796029635,3,1.70513 | 1.70512723922729,0.434523 (0.402764) | 0.434523105621338(0.404716997060548),0,,,,,,,,,,,,,,,,,,240 | 24000 | 24260.161,Cruise,3,Y,Y,,Y,,,FOQA flight record 6090316.
+TRB16145,Pilot ASAP,22-Sep-16,22SEP162000,2375,SFO,GJT,737,3747,,,,,2,,,0,,,,,,,,,,,,,,,,,,4800,Descent,2,Y,Y,,Y,,,
+TRB16146,Pilot ASAP,21-Sep-16,21SEP160420,1253,SLC,OAK,737,3715,,,,PPIG,2,,,0,,,,,,,,,,,,,,,,,,600,Climb,2,Y,Y,,Y,,,Event took place right after takeoff
+TRB16147,Pilot ASAP,22-Sep-16,22SEP162320,596,MSP,SLC,320,3266,,,,Final for 34L SLC | 40.4580144191124/-112.051053353865,,0.832033336,0.54297012090683(0.207630418947939),0,,,,,,,,,,,,,,,,,,7000,Approach,,,,,,,,
+TRB16148,Pilot ASAP,13-Sep-16,13SEP160120,2797,YYZ,SLC,319,3123,,,,ILS 16L SLC,,,,0,,,,,,,,,,,,,,,,,,4000,Approach,,,,,,,,
+TRB16149,Pilot ASAP,21-Sep-16,21SEP160425,1557,SLC,SEA,737,3815,,,,40NM east PECOP | 41.6148/-113.366 | 41.614813470337/-113.365881110212,2,1.63874 | 1.63873529434204,0.553571 (0.285978) | 0.553570747375488(0.287030408478575),0,,,,,,,,,,,,,,,,,,335 | 33600 | 34353.606,Climb,2,Y,Y,,Y,,,FOQA flight record 6088242.
+TRB16150,Pilot ASAP,21-Sep-16,21SEP160300,51,SLC,PDX,737,3837,,,,SID Departure | 40.9465929576747/-112.502866540487,,1.297618389,0.635988235473633(0.192771578088435),0,,,,,,,,,,,,,,,,,,10000,Climb,,,,,,,,
+TRB16151,Pilot ASAP,18-Sep-16,18SEP160100,472,GRU,JFK,767,1706,,,,40NM north of GRU,1,,,0,,,,,,,,,,,,,,,,,,12000,Climb,1,,,,,,,
+TRB16152,Pilot ASAP,18-Sep-16,18SEP161630,62,CVG,ATL,320,3240,,,,Navvy | 37.9459383948741/-85.8593705197083,,0.949221134,0.910158514976501(0.100730022833199),0,,,,,,,,,,,,,,,,,,9000,Descent,,,,,,,,
+TRB16153,Pilot ASR,18-Sep-16,18SEP161400,1522,ATL,SDF,M88,983,,,,100nm south of sdf,,,,0,,,,,,,,,,,,,,,,,,25000,Descent,,,,,,,,
+TRB16154,Pilot ASAP,18-Sep-16,18SEP162215,2084,STL,ATL,M90,9244,,,,andiy,,,,0,,,,,,,,,,,,,,,,,,7000,Approach,,,,,,,,
+TRB16155,Pilot ASAP,18-Sep-16,18SEP161330,2217,JFK,SJU,737,3747,,,,WATERS,2,,,0,,,,,,,,,,,,,,,,,,39000,Cruise,2,Y,Y,,Y,,,
+TRB16156,Pilot ASAP,17-Sep-16,17SEP160140,2815,JFK,SJU,737,3712,,,,,,,,0,,,,,,,,,,,,,,,,,,39000,Cruise,,,,,,,,
+TRB16157,Pilot ASAP,13-Sep-16,13SEP160200,1611,PHL,SLC,757,6813,,,,SLC RWY 34L,2,,,0,,,,,,,,,,,,,,,,,,500,Approach,2,Y,Y,,Y,,,
+TRB16158,Pilot ASAP,13-Sep-16,13SEP160115,115,ATL,SLC,737,3803,,,,10 NM final rwy 16R | 38.5399636498391/-105.724125670565,,1.272435188,0.848900318145751(0.113394902862063),0,,,,,,,,,,,,,,,,,,9000,Approach,,Y,Y,,N,,,
+TRB16159,Pilot ASAP,13-Sep-16,13SEP160050,1839,LAS,DTW,737,3732,,,,polar intersection,,,,0,,,,,,,,,,,,,,,,,,9000,Descent,,,,,,,,
+TRB16160,Pilot ASAP,10-Sep-16,10SEP162200,2434,LAX,BNA,319,3128,,,,35.4601692884985/-87.9486029579318,2,0.851564646,0.417969793081284(0.309429040552114),FA,,,,,,,,,,,,,,,,,,15000,Descent,2,,,,,,,
+TRB16161,Pilot ASAP,8-Sep-16,8SEP161358,484,JFK,AUA,737,3725,,,,5mi N of Savon,,,,0,,,,,,,,,,,,,,,,,,35000,Cruise,,,,,,,,
+TRB16162,Pilot ASAP,6-Sep-16,6SEP160200,166,TPE,OKA,767,197,,,,TPE-OKA,,,,0,,,,,,,,,,,,,,,,,,37000,,,,,,,,,
+TRB16164,Pilot ASAP,6-Sep-16,6SEP161700,686,ATL,SDQ,737,3748,,,,MDSD,1,,,0,,,,,,,,,,,,,,,,,,8000,Approach,1,,,,,,,
+TRB16165,Pilot ASAP,4-Sep-16,4SEP162200,88,LAS,SLC,320,3267,,,,20mi S of SLC | 36.0760933509666/-115.234145144571,,1.070315123,0.832033336162567(0.114432356069614),0,,,,,,,,,,,,,,,,,,9000,Approach,,,,,,,,
+TRB16166,Pilot ASAP,2-Sep-16,2SEP160125,108,ATL,MAD,330,3316,,,,N043W050,,,,0,,,,,,,,,,,,,,,,,,36000,Cruise,,,,,,,,
+TRB16167,Pilot ASAP,1-Sep-16,1SEP161948,2155,HSV,ATL,319,3127,,,,20nm from ATL,2,,,0,,,,,,,,,,,,,,,,,,9000,Descent,2,,Y,,Y,,,Fas did not mention any potential injuries until inside crew van
+TRB16168,Pilot ASAP,2-Sep-16,2SEP161940,2472,ATL,CHS,M88,949,,,,3mi final CHS,3,,,0,,,,,,,,,,,,,,,,,,1000,Approach,3,Y,Y,,,,,
+TRB16169,Pilot ASAP,2-Sep-16,2SEP161430,1825,BWI,ATL,737,3602,,,,,2,,,0,,,,,,,,,,,,,,,,,,5000,Approach,2,,,,,,,
+TRB16170,Pilot ASAP,1-Sep-16,1SEP162330,215,JFK,TPA,717,9586,,,,TPA | 40.3297460050684/-74.025296141054,,1.155240059,0.697639942169189(0.119330689560944),0,,,,,,,,,,,,,,,,,,800,Approach,,,,,,,,
+TRB16171,Pilot ASAP,1-Sep-16,1SEP162300,115,ATL,TWF,737,3806,,,,1 mi final for 16R at SLC | 41.0649219533422/-112.427889662632,,1.212911129,0.452838182449341(0.193799091842206),0,,,,,,,,,,,,,,,,,,,Approach,,,,,,,,
+TRB16172,Pilot ASAP,22-Sep-16,22SEP162230,276,DTW,MCO,737,3858,,,,PIGLT | 28.8639747954157/-81.902768929728,,1.68223381,0.638277530670166(0.246443617783376),FA,,,,,,,,,,,,,,,,,,12000,Descent,,,,,,,,
+TRB16173,Pilot ASAP,16-Sep-16,16SEP160155,2306,ATL,DAY,M90,9239,,,,VXV | 36.2321812361492/-84.3754599362742,3,1.32,0.5522(0.129816873059165),0,,,,,,,,,,,,,,,,,,30000,Cruise,,,,,,,,
+TRB16174,Pilot ASAP,1-Sep-16,1SEP162330,1681,SLC,RDU,320,3227,,,,5nm NW of SLC,,,0.593751490116119(0.175299964632771),0,,,,,,,,,,,,,,,,,,10000,Climb,,,,,,,,
+TRB16175,,7-Oct-16,,0201,JNB,ATL,777,7110,,,,28.37264/-58.8082 | 28.3736763943736/-58.8100505218093,2,1.29 | 1.29296875,.691 (.175) | 0.6171875(0.175562509781442),FA,Y,,,,,,,,,,,,,,,,,38000,Cruise,,,,,,,,"FOQA did not capture any turbulence during this flight. FOQA flight record 6124685. | Original date in spreadsheet may have been incorrect (7-Oct), no turbulence detected on this date.  Flight departing on 9-Oct did record turbulence."
+TRB16176,,11-Oct-16,,2287,LAS,SLC,320,3219,,,,,0,,,0,,,,,,,,,,,,,,,,,,,Cruise,0,,,,,,,FOQA did not capture any turbulence during this flight. FOQA flight record  6145827.
+TRB16177,,11-Oct-16,,0797,BDL,MSP,M88,9016,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not detect turbulence during this flight.  FOQA FR # 6171424
+TRB16178,STARS,14-Oct-16,,0050,SLC,LHR,767,178,,,,,,,,FA,N,N,,,,,,,,,,,,,,,,,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16179,"STARS,FSR",14-Oct-16,,0011,LHR,MSP,764,1821,,,,44.9175/-93.3054,1,1.16026,0.825402(0.115),FA,,,,,,,,,,,,,,,,,,2033.231,Approach,1,,,,,,,FOQA flight record  6148080.
+TRB16180,STARS,15-Oct-16,,630,NGO,DTW,330,3361,,,,,1,,,FA,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,FOQA did not capture any turbulence during this flight. FOQA flight record  6147241.
+TRB16181,"STARS,FSR",15-Oct-16,,147,ATL,SCL,767,1704,,,,abeam SPJC,2,,,FA,N,,,,,,,,,,,,,,,,,37000,Cruise,2,,Y,,,,,Non-FOQA aircraft.
+TRB16182,"STARS,FSR",16-Oct-16,,170,CDG,MSP,330,3323,,,,75 E OF MAXAR,1,,,FA,Y,N,,,,,,,,,,,,,,,,360,Cruise,,,,,,,,FOQA did not capture any turbulence during this flight. FOQA flight record  6146304.
+TRB16183,"STARS,FSR",17-Oct-16,,1404,LAX,SLC,319,3119,,,,39.7990/-112.2695 | 39.8163658248431/-112.254837648119,3,1.836 | 1.3906284570694,0.1133 (.277) | 0.113281533122063(0.276986436837879),FA,N,,,,,,,,,,,,,,,,,19500,Descent,,,,,,,,FOQA FR # 6178859
+TRB16184,STARS,17-Oct-16,,1465,LAX,MSP,757,5649,,,,44.8366/-93.8924 | ACH | 44.8366414574874/-93.8924374214194,1,1.30334 | 1.30334377288818,0.41986 (0.0112581) | 0.419860124588013(0.199889306708261),FA,N,,,,,,,,,,,,,,,,,11026.269 | 370,Descent,1,,,,,,,FOQA flight record 6176023.
+TRB16185,STARS,21-Oct-16,,8937,MIA,PHL,757,661,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,"No FOQA downloads since 28 June, 2016"
+TRB16186,STARS,21-Oct-16,,29,LHR,ATL,764,1820,,,,33.6494/-84.3428,,1.52,.632 (.22),FA,,,,,,,,,,,,,,,,,,2000,Approach,,,,,,,,FOQA FR # 6182217
+TRB16187,"STARS,FSR",21-Oct-16,,211,PRG,JFK,330,3325,,,,47.1155/-43.4574,2,1.34,.63 (.173),FA,N,N,,,,,,,,,,,,,,,,37000,Cruise,,,,,,,,FOQA FR # 6156709
+TRB16188,FACTS,21-Oct-16,,277,HNL,KIX,767,196,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,Non-FOQA aircraft.
+TRB16189,FACTS,21-Oct-16,,1894,SFO,CVG,737,3732,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,FOQA downloads begin on this 737 on 24 Oct - No FOQA data for date of event.
+TRB16191,"FACTS,FSR",23-Oct-16,,196,GRU,MCO,767,174,,,,S13W049,2,,,FA,,,,,,,,,,,,,,,,,,32000,Cruise,2,,Y,,,,,Non-FOQA aircraft.
+TRB16192,STARS,27-Oct-16,,412,JFK,NCE,764,1818,,,,50.2036/-28.3964,2,1.201,0.844 (.091),FA,N,,,,,,,,,,,,,,,,,38000,Cruise,,,,,,,,FOQA FR # 6179602
+TRB16193,FSR,30-Oct-16,,1674,SLC,PDX,737,3759,,,,16 mi W of SLC | 40.8N/112.1W,3,,,0,,,,,,,,,,,,,,,,,,10000 | 10000FT | 33112.5326030775,Climb | Enroute,3,Y,Y,,Y,,Y,No FOQA data for this flight.
+TRB16194,FSR,31-Oct-16,,1795,LAS,JFK,737,3820,,,,40.2187/-105.6317 | 40.21N/105.65W | 40.2346026280221/-105.586145929367,3,1.591 | 1.60210561752319,.302 (.282) | 0.619962692260742(0.283276786965113),0,,,,,,,,,,,,,,,,,,33000 | 9126.5831381052,Descent | Initial Climb,3,,N,,,,,FOQA FR # 6185272
+TRB16195,STARS,30-Oct-16,,1167,LAX,SJC,717,9507,,,,37.078/-121.827 | 37.0784171778229/-121.827352823662,,1.6174 | 1.07287168502808,.5512 (.203) | 0.894407749176025(0.203367768597996),FA,,,,,,,,,,,,,,,,,,9000 | 2458.59268317628,Descent | Initial Climb,,,,,,,,FOQA FR # 6186708
+TRB16196,FSR,31-Oct-16,,1331,DTW,LAX,737,3831,,,,42.1784/-83.4010 | 42.1778933453348/-83.4018255142889,,1.15 | 1.15338754653931,.080 (.113) | 0.80082368850708(0.113010279980419),0,,,,,,,,,,,,,,,,,,2500 | 15782.9304882916,Climb | Descent,,,,,,,,FOQA FR # 6185366
+TRB16197,STARS,2-Nov-16,,831,DCA,SLC,757,680,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16198,"FACTS,FSR",6-Nov-16,,1528,ATL,MSP,737,3864,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,Climb,,,,,,,,
+TRB16199,FACTS,13-Oct-16,,167,NRT,TPE,767,187,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,Non-FOQA aircraft
+TRB16200,"FACTS,FSR",14-Oct-16,,321,SFO,ATL,737,3843,,,,33.6493/-84.5566 | 33.649420023982/-84.5534052101241,3,1.15 | 1.11904668807983,.712 (.135) | 0.711537837982178(0.135500148659545),FA,,,,,,,,,,,,,,,,,,2800 | 2879.24913277909,Approach,,,,,,,,FOQA FR # 6143419
+TRB16201,FACTS,14-Oct-16,,1281,DTW,LAS,757,5813,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16202,"STARS,FSR",14-Oct-16,,1751,MSP,LAS,737,3706,,,,41.2507/-103.8358 | 15 ENE GLL | 41.2483134279511/-103.842457314317,2,1.222 | 1.22206878662109,.501 (.192) | 0.500915050506592(0.192385268595936),FA,,,,,,,,,,,,,,,,,,38000 | 38087.2174653552,Cruise,,,,,,,,FOQA FR # 6155381
+TRB16203,"FACTS,FSR",14-Oct-16,,2540,DTW,MSY,320,3213,,,,37.6168183901307/-85.8565620405186,3,1.378909707,0.703126788139343(0.187274664705544),FA,,,,,,,,,,,,,,,,,,36350.92936,Cruise,,,,,,,,
+TRB16205,FACTS,16-Oct-16,,284,NRT,LAX,777,7102,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16206,FACTS,17-Oct-16,,2420,DCA,SLC,737,3773,,,,,1,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16207,FACTS,17-Oct-16,,2628,SAN,DTW,757,5651,,,,38.85119291155/-105.865282524832,2,1.310210228,0.541167497634888(0.188243948133937),FA,,,,,,,,,,,,,,,,,,37061.25093,Cruise,,,,,,,,
+TRB16208,FACTS,19-Oct-16,,1550,LAS,MSP,757,698,,,,,1,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16209,"FACTS,FSR",20-Oct-16,,482,JFK,PUJ,737,3742,,,,24.7257267586916/-69.0265774491477,3,1.359431267,0.320054292678833(0.33947262877226),FA,,,,,,,,,,,,,,,,,,37158.7945,Cruise,,,,,,,,
+TRB16210,STARS,29-Oct-16,,108,ATL,MAD,764,1605,,0.16,0.38,39.5N/53.0W,2,,,FA,Y,,,,,,,,,,,,,,,,,34000,,,,,,,,,
+TRB16211,STARS,2-Nov-16,,741,LAX,PVR,737,3723,,,,,1,,,FA,Y,,,,,,,,,,,,,,,,,28900,Cruise,,,,,,,,
+TRB16212,"STARS,FSR",5-Nov-16,,170,CDG,MSP,330,3313,,,,,1,,,FA,Y,,,,,,,,,,,,,,,,,,Descent,,,,,,,,
+TRB16213,STARS,7-Nov-16,11/6/2016,60,GIG,ATL,767,178,,0.14,0.28,,2,,,FA,Y,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16214,FACTS,9-Nov-16,,1306,DTW,FLL,737,3816,,,,35.6714525979601/-83.7878114695731,3,1.476189613,0.429944515228271(0.22720839997135),FA,,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16215,FACTS,9-Nov-16,,1339,DTW,MSP,757,6713,,,,,1,,,FA,,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16216,P-FSR,9-Nov-16,,1546,PHX,MEM,757,6707,,,,,,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,"The pilots only mentioned receiving reports of Moderate and Severe turbulence, but do not say they experienced any."
+TRB16217,STARS,10-Nov-16,,75,AMS,ATL,330,3302,,,,,1,,0.80859375(0.111000609244788),FA,Y,,,,,,,,,,,,,,,,,35915.37934,Cruise,,,,,,,,
+TRB16218,"STARS,FACTS,P-FSR,F-FSR",10-Nov-16,,1289,ATL,SNA,757,6711,,,,55.1582660789378/-2.53625816072282,2,1.27734375,0.80859375(0.111000609244788),FA,Y,,,,,,,,,,,,,,,,,"24,000",Cruise,2,,N,,,,,
+TRB16219,"STARS,F-FSR",11-Nov-16,,2040,SFO,JFK,757,6811,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16220,"STARS,FACTS,P-FSR,F-FSR",14-Nov-16,,158,ICN,DTW,747,6307,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,33000,Cruise,2 | 1/1/1900,Y,Y,,Y,,N,"Seated FAs and passengers during light to moderate turbulence for approx 20 min, after waiting another 10 min with only occ lgt turb I allowed FAs to continue service using their discretion. Approximately 5 min later we encountered unexpected moderate turbulence.  "
+TRB16221,"STARS,F-FSR",12-Nov-16,,201,JNB,ATL,777,7101,,,,-13.7503832583116/14.9588012736502,3,1.27734375,0.8671875(0.11313419483487),FA,N,,,,,,,,,,,,,,,,,32090.7432,Cruise,,,,,,,,
+TRB16222,"STARS,FACTS,F-FSR",13-Nov-16,,1790,ATL,SAT,757,5808,,,,,2,,0.845580101013184(0.127090202429306),FA,N,,,,,,,,,,,,,,,,,26658.04853,Cruise,,,N,,,,,
+TRB16223,"STARS,FACTS",13-Nov-16,,1951,LGA,ATL,737,3803,,,,30.6968415813919/-95.1488615974562,3,1.301054955,0.845580101013184(0.127090202429306),FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16224,"STARS,F-FSR",14-Nov-16,,452,JFK,STI,737,3732,,,,,2,,1.05036544799805(0.207513835972606),FA,N,,,,,,,,,,,,,,,,,10405.59708,Cruise,,,,,,,,
+TRB16225,STARS,15-Nov-16,,904,LGA,ATL,737,3803,,,,19.8501533581048/-70.8914048872603,2,1.183149338,1.05036544799805(0.207513835972606),FA,Y,,,,,,,,,,,,,,,,,19100-21000,Cruise,,,,,,,,
+TRB16226,"FACTS,P-FSR",17-Nov-16,,501,LAX,ATL,737,3831,,,,,2,,0.748167991638184(0.149958775268241),FA,,,,,,,,,,,,,,,,,,31000,Cruise,2,,Y,,Y,,,
+TRB16227,"FACTS,F-FSR",19-Nov-16,,1913,ATL,DCA,321,3001,,,,,3,,0.83203125(0.1069697187883),FA,,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB16228,"FACTS,P-FSR",19-Nov-16,,2222,OGG,LAX,757,5647,,,,,2,,,FA,,,,,,,,,,,,,,,,,,30000,Cruise,2,,Y,,Y,,,
+TRB16230,FACTS,20-Nov-16,,166,NRT,SEA,767,185,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,Y | Y|Y,,,,,
+TRB16231,"P-FSR,F-FSR,F-ASAP",20-Nov-16,,1982,MIA,LGA,717,9567,,,,,,,0.697639942169189(0.153444049177443),0,,,,,,,,,,,,,,,,,,750.2809194,Cruise,,,,,,,,
+TRB16232,P-FSR,20-Nov-16,,2214,ATL,ROA,737,3608,,,,40.7537255764293/-73.8192145112793,,1.182695866,0.560438871383666(0.261978565050692),0,,,,,,,,,,,,,,,,,,,Go-Around,,,,,,,,
+TRB16234,"P-FSR,F-FSR",21-Nov-16,,276,NRT,DTW,330,3351,,,,,,,0.6328125(0.154750969706565),0,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16236,FACTS Survey,22-Nov-16,,38,HKG,SEA,330,3356,,,,,3,,0.875(0.108535749191139),FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16237,FACTS Survey,22-Nov-16,,167,SEA,NRT,767,1605,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16238,FACTS Survey,22-Nov-16,,278,KIX,HNL,767,192,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16239,"P-FSR,P-ASAP",23-Nov-16,,1516,ORD,GJT,319,3121,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Approach,2,,,,,,,
+TRB16242,"STARS,FACTS Survey,F-FSR",24-Nov-16,,690,SLC,OMA,717,9574,,,,40.8532394684688/-111.98437616654,3,1.269639969,0.880680084228516(0.109222700953653),FA,Y,,,,,,,,,,,,,,,,,6493.67003,Descent,,,Y,,,,,
+TRB16243,"FACTS Survey,P-FSR,P-ASAP",26-Nov-16,,416,JFK,DKR,757,6806,,,,,2,1.269639969,0.880680084228516(0.109222700953653),FA,N,,,,,,,,,,,,,,,,,,Cruise,2,Y,Y,,,Y,,
+TRB16244,"P-FSR,F-FSR,P-ASAP,F-ASAP",26-Nov-16,,1490,DTW,LAS,737,3848,,,,,2,1.737178802,0.631409645080566(0.2491145780294),0,,,,,,,,,,,,,,,,,,27948.64323,Cruise,,,Y,,,,,
+TRB16245,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP",27-Nov-16,,919,SXM,ATL,737,3606,,,,,2,1.737178802,0.631409645080566(0.2491145780294),FA,Y,,,,,,,,,,,,,,,,,38000,Cruise,2,,Y,,,Y,,
+TRB16246,P-FSR,27-Nov-16,,1393,LAX,GUA,757,688,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16247,"F-FSR,P-ASAP,F-ASAP",28-Nov-16,,267,SFO,JFK,767,191,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Cruise,2,,Y,,,Y,,
+TRB16248,"P-FSR,P-ASAP",28-Nov-16,,512,MEX,DTW,319,3159,,,,,,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16249,"P-FSR,P-ASAP,Log Page",28-Nov-16,,895,PDX,ATL,737,3849,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Cruise,2,,,,,,,Log Page
+TRB16252,"F-FSR,F-ASAP",28-Nov-16,,1392,GUA,LAX,757,688,,,,,3,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16253,STARS,28-Nov-16,,1393,LAX,GUA,757,680,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16254,"P-FSR,F-FSR,P-ASAP,F-ASAP",29-Nov-16,,21,CDG,EWR,767,186,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Descent,2,,Y,,,Y,,
+TRB16255,"P-FSR,F-FSR,P-ASAP,F-ASAP",29-Nov-16,,376,NAS,ATL,717,9546,,,,32.9021838371971/-83.3338989307092 | BETBE,3,1.178120136,0.72052001953125(0.131679175675377),0,,,,,,,,,,,,,,,,,,26632.19809,Cruise,,,,,,,,
+TRB16258,STARS,30-Nov-16,,2791,SLC,RDU,320,3238,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16259,FACTS Survey,2-Dec-16,,962,SAL,LAX,737,3769,,,,,,,0.826006412506104(0.116532076496668),FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16260,"FACTS Survey,P-FSR",3-Dec-16,,1124,LAX,RDU,737,3702,,,,,3,,0.432233810424805(0.239465103935444),FA,N,,,,,,,,,,,,,,,,,5000,Climb,3,Y,Y,,Y,,,Pilot ASAP does not mention any injuries and that the turbulence was expected
+TRB16261,FACTS Survey,4-Dec-16,,274,MSP,DCA,M90,9209,,,,,2,,0.7524(0.215366186859548),FA,N,,,,,,,,,,,,,,,,,31000,Cruise,2,,N,,Y,,Y,The turbulence started just after the CA made the announcement to stow the carts and sit down
+TRB16262,STARS,3-Dec-16,,296,NRT,ATL,777,7105,,,,,2,,0.7265625(0.133206103409053),FA,Y,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16263,FACTS Survey,3-Dec-16,,2607,TPA,ATL,757,676,,,,,3,,1.09963893890381(0.104828107646344),FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16264,"F-FSR,F-ASAP",4-Dec-16,,613,LAX,JFK,764,1807,,,,,2,,0.798533916473389(0.149625431641028),0,,,,,,,,,,,,,,,,,,,Descent,,,,,,,,
+TRB16265,FACTS Survey,5-Dec-16,,46,JFK,AMS,767,1501,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16266,STARS,5-Dec-16,,1373,TPA,ATL,757,668,,,,,2,,0.80769157409668(0.136647747320247),FA,Y,,,,,,,,,,,,,,,,,30000,Cruise,2,,Y,,,,,Turbulence was unexpected
+TRB16271,P-FSR,8-Dec-16,,1873,ATL,MIA,M88,952,,,,,,,,0,,,,,,,,,,,,,,,,,,,Climb,,,,,,,,
+TRB16272,"F-FSR,F-ASAP",8-Dec-16,,2258,AVL,ATL,717,9558,,,,,,,0.830343723297119(0.139317551022983),0,,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB16275,"STARS,MetroTIR",6-Dec-16,,2355,ATL,LAX,757,5655,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB16276,"P-ASAP,Log Page",8-Dec-16,,2436,PBI,LGA,717,9568,,,,,1,,0.85322380065918(0.172539418091274),0,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+TRB16277,STARS,9-Dec-16,,679,SEA,LAS,717,9512,,,,,,,0.711368083953857(0.117963740296718),FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16278,STARS,10-Dec-16,,41,LAX,SYD,777,7110,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16279,"F-FSR,F-ASAP",10-Dec-16,,5793,LAS,LAX,717,9500,,,,,,,1.02253580093384(0.107264259279435),FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16280,FACTS Survey,11-Dec-16,,83,CDG,ATL,764,1813,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16281,FACTS Survey,12-Dec-16,,200,ATL,JNB,777,7110,,,,,2,,0.79296875(0.104761112348498),FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16282,"F-FSR,F-ASAP",12-Dec-16,,220,ACC,JFK,764,1819,,,,,3,,1.08928489685059(0.110792942913136),FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16283,STARS,12-Dec-16,,1347,DTW,LAS,320,3235,,,,,1,,0.773439407348633(0.149344854369102),FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB16284,"F-FSR,F-ASAP",13-Dec-16,,275,NRT,MNL,767,188,,,,,3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16285,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",14-Dec-16,,578,NRT,HNL,767,180,,0.32,0.62,,1,,,FA,Y,,,,,,,,,,,,,,,,,FL380-FL360,Cruise,1,,Y,,Y,Y,Y,
+TRB16286,"F-FSR,F-ASAP",15-Dec-16,,58,BOS,LHR,767,1706,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16287,"P-FSR,P-ASAP",15-Dec-16,,420,JFK,ACC,764,1821,,,,,2,,,0,,,,,,,,,,,,,,,,,,FL310,Cruise,2,,Y,,,,,
+TRB16288,FACTS Survey,15-Dec-16,,1856,ATL,MCO,321,3013,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16289,"F-FSR,F-ASAP",15-Dec-16,,2665,LGA,BOS,717,9562,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16290,"F-FSR,F-ASAP",17-Dec-16,,2289,ATL,GRR,717,9548,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16291,"P-FSR,F-ASAP",18-Dec-16,,37,LHR,SEA,767,176,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,34000,Cruise,2,,Y,,Y,,Y,Captain only found out about the injuried FA on the train to baggage claim.
+TRB16292,"FACTS Survey,MetroTIR",18-Dec-16,,1,LHR,JFK,767,1705,,0.08,0.2,,1,,,FA,N,,,,,,,,,,,,,,,,,350,Cruise,,,N,,,,,
+TRB16294,"STARS,F-FSR,F-ASAP",18-Dec-16,,405,CDG,JFK,330,3319,,,,,2 | 1,,,FA,Y,,,,,,,,,,,,,,,,,34000,,,,,,,,,
+TRB16295,"FACTS Survey,MetroTIR",19-Dec-16,,2823,JFK,SAN,737,3704,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,28000,Descent,,,N,,,,,
+TRB16296,"F-FSR,F-ASAP,MetroTIR",20-Dec-16,,407,JFK,ZRH,767,1705,,,,,3,,,0,,,,,,,,,,,,,,,,,,UNKNOWN,Descent,,,,,,,,
+TRB16297,"FACTS Survey,F-FSR,F-ASAP",21-Dec-16,,197,MCO,GRU,767,1506,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16298,STARS,21-Dec-16,,2107,SLC,ORD,319,3129,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16300,"FACTS Survey,MetroTIR",24-Dec-16,,542,PHX,DTW,737,3723,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16301,FACTS Survey,25-Dec-16,,617,HNL,NRT,767,180,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB16302,F-FSR,26-Dec-16,,1336,PHX,DTW,320,3212,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16303,"FACTS Survey,F-FSR,P-ASAP,F-ASAP,MetroTIR",27-Dec-16,,56,SLC,AMS,767,192,,,0.2,49.7/-093.3,2,,,FA,N,,,,,,,,,,,,,,,,,33000,Cruise,2,,N,,,,,
+TRB16304,"F-FSR,F-ASAP",27-Dec-16,,83,CDG,ATL,764,1810,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16305,"P-ASAP,Log Page",27-Dec-16,,269,SEA,ATL,737,3820,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16306,"FACTS Survey,P-FSR,P-ASAP,Log Page,MetroTIR",27-Dec-16,,1687,SAN,MSP,M90,9251,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,290,Cruise,,,N,,,,,
+TRB16308,"P-FSR,P-ASAP,MetroTIR",27-Dec-16,,2064,RNO,MSP,319,3123,,,,,2,,,0,,,,,,,,,,,,,,,,,,370,Cruise,2,,Y,,,Y,,
+TRB16309,"P-ASAP,Log Page",27-Dec-16,,2093,MSP,SNA,319,3124,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,,,,,,
+TRB16310,"STARS,P-FSR,P-ASAP",28-Dec-16,,854,SFO,DTW,737,3849,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,2 | 2|1|2|1,,Y,,,,,
+TRB16311,"STARS,F-ASAP",28-Dec-16,,860,SNA,MSP,319,3124,,,,,1,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16312,STARS,28-Dec-16,,1702,LGA,FLL,717,9523,,,,,1,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16313,FACTS Survey,28-Dec-16,,1726,ATL,FLL,321,3013,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB16314,STARS,29-Dec-16,,907,,,,675,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB16315,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",30-Dec-16,,296,NRT,ATL,777,7101,,,,,3,,,0,,,,,,,,,,,,,,,,,,330,Cruise,,,Y,,,Y,,
+TRB16316,FACTS Survey,30-Dec-16,,444,JFK,FCO,767,181,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,N,,,,,
+TRB16317,FACTS Survey,30-Dec-16,,599,HNL,FUK,767,1506,,,,,3,,,0,,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB16318,"STARS,F-FSR,F-ASAP",30-Dec-16,,2104,PVD,ATL,M88,997,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17001,STARS,1-Jan-17,,1550,LAS,MSP,737,3757,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17002,"STARS,F-ASAP,MetroTIR",2-Jan-17,,638,STT,ATL,757,682,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,Descent,,,,,,,,
+TRB17003,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,Log Page,MetroTIR",2-Jan-17,,1998,DTW,LAS,737,3817,,,,,3,,,FA,N,,FA,Y,,FA,N,,,,,,,,,,,320,Cruise,,,N,,,N,,
+TRB17004,"P-FSR,F-FSR,F-ASAP",3-Jan-17,,1592,SAN,ATL,737,3812,,,,,3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17005,"STARS,F-FSR,F-ASAP",3-Jan-17,,2377,LAX,SLC,737,3860,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17006,"P-FSR,F-FSR,P-ASAP,F-ASAP",5-Jan-17,,831,ATL,PHX,321,3015,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Descent,2,,Y,,,,,The pilots had no warning of the turbulence 
+TRB17007,"F-FSR,MetroTIR",6-Jan-17,,30,DFW,ATL,M88,952,,,,,,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17008,"STARS,F-ASAP",7-Jan-17,,131,MUC,ATL,764,1820,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17009,STARS,7-Jan-17,,417,HNL,LAX,767,1521,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17010,"F-FSR,F-ASAP",7-Jan-17,,419,MXP,JFK,330,3317,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17011,"P-FSR,P-ASAP,MetroTIR",9-Jan-17,,1336,MIA,SLC,737,3730,,,,,3,,,0,,,,,,,,,,,,,,,,,,23000,Descent,3,Y,Y,,,Y,,
+TRB17012,"P-FSR,P-ASAP,Log Page,MetroTIR",9-Jan-17,,1853,DEN,SLC,717,9546,,,,,3,,,0,,,,,,,,,,,,,,,,,,100,Climb,3,Y,Y,,Y,Y,,
+TRB17013,"FACTS Survey,F-ASAP,MetroTIR",9-Jan-17,,1883,SNA,ATL,757,6716,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17014,"P-ASAP,MetroTIR",9-Jan-17,,2240,SFO,JFK,767,187,,,,,2,,,0,,,,,,,,,,,,,,,,,,41000,Cruise,2,,Y,,,,,
+TRB17015,MetroTIR,9-Jan-17,,2546,SAN,SLC,319,3170,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17016,"P-FSR,F-FSR,MetroTIR",9-Jan-17,,9855,JFK,SLC,737,3763,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,140-110,Descent,2,,Y,,,,,Report from ATC did not have a turbulence intensity
+TRB17017,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",10-Jan-17,,922,SJU,ATL,737,3849,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,300,Cruise,2,,Y,,,,,"ATC report said FL300 was smooth, once at FL300 the flight encountered moderate turbulence with no warning"
+TRB17018,STARS,11-Jan-17,,2367,ATL,SYR,M90,9218,,,,,,,,0,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17019,"P-FSR,F-FSR",11-Jan-17,,8946,SNA,DEN,757,652,,,,,2,,,FA,,,,,,,,,,,,,,,,,,12000,Descent,2,,Y,,Y,,,CA learned of injury in the van on the way to the hotel
+TRB17020,F-FSR,12-Jan-17,,415,JFK,MAD,764,1811,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17021,"P-ASAP,Log Page",12-Jan-17,,2143,MSP,CLT,319,3134,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,,,,,,
+TRB17022,"P-FSR,P-ASAP,MetroTIR",13-Jan-17,,579,HNL,NRT,747,6309,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,Y,,,Y,,
+TRB17023,"F-FSR,F-ASAP",14-Jan-17,,107,CDG,SLC,767,186,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17024,"F-FSR,F-ASAP",14-Jan-17,,756,SJU,MSP,737,3862,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17025,FACTS Survey,15-Jan-17,,2355,ATL,LAX,757,6717,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17026,STARS,16-Jan-17,,477,BCN,JFK,767,1501,,,,,,,,0,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17027,"P-FSR,P-ASAP,MetroTIR",21-Jan-17,,1341,ATL,TPA,737,3715,,,,,3,,,0,N,,,,,,,,,,,,,,,,,~ FL330,Cruise,3,Y,Y,,Y,Y,,"The CA/FO reported that there were no injuries 
+Injury removed from count"
+TRB17028,"P-FSR,P-ASAP",21-Jan-17,,2330,ATL,TPA,M88,926,,,,,2,,,0,,,,,,,,,,,,,,,,,,29000,Cruise,2,Y,Y,,,Y,,"The CA/FO reported that there were no injuries 
+Injury removed from count"
+TRB17029,"F-FSR,F-ASAP",22-Jan-17,,277,HNL,KIX,767,188,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17030,F-FSR,22-Jan-17,,811,ATL,MSP,737,3801,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17031,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",22-Jan-17,,1358,LAX,SJC,717,9500,,,,,2,,,PAX,N,,,,,,,,,,,,,,,,,FL230-FL200 | FL210,Descent,2,,,,,,,
+TRB17032,STARS,23-Jan-17,,84,ATL,CDG,764,1820,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17033,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",23-Jan-17,,475,SLC,LAS,320,3220,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE | 26000,Descent,2,N,Y,,N,N,,
+TRB17034,"STARS,F-FSR,F-ASAP",23-Jan-17,,1089,ATL,SDF,320,3224,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17035,"STARS,F-FSR,F-ASAP",23-Jan-17,,1811,MKE,MSP,319,3153,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17036,STARS,23-Jan-17,,1936,ATL,LGA,M90,9249,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17037,FACTS Survey,24-Jan-17,,49,AMS,JFK,767,193,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17038,STARS,24-Jan-17,,2632,BWI,ATL,737,3836,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17039,"P-ASAP,Log Page",25-Jan-17,,582,PVG,DTW,777,7005,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,,,,,,
+TRB17040,STARS,20-Jan-17,,104,GRU,ATL,330,3324,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17041,"STARS,F-ASAP,MetroTIR",10-Jan-17,,831,ATL,ALB,717,9504,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17042,"STARS,MetroTIR",5-Jan-17,,388,PUJ,ATL,319,3171,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17043,FACTS Survey,3-Jan-17,,200,ATL,JNB,777,7106,,,,,3,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17044,FACTS Survey,4-Jan-17,,579,HNL,NRT,747,6308,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17045,FACTS Survey,6-Jan-17,,599,HNL,FUK,767,190,,,,,2,,,0,,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17046,"FACTS Survey,MetroTIR",14-Jan-17,,599,HNL,FUK,767,180,,0.24,0.44,,2 | 1/1/1900,,,0,,,,,,,,,,,,,,,,,,35000,Cruise,,,Y,,,,,
+TRB17047,STARS,21-Jan-17,,74,ATL,AMS,330,3316,,,,,,,,0,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17048,STARS,21-Jan-17,,812,LAS,ATL,737,3741,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17049,MetroTIR,27-Jan-17,,60,GIG,ATL,767,1702,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17050,"P-FSR,F-FSR,F-ASAP,Log Page,MetroTIR",28-Jan-17,,830,ATL,RDU,757,6808,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,Descent,3,,Y,,,,,
+TRB17051,"F-FSR,F-ASAP",28-Jan-17,,1834,ATL,MCO,757,6703,,,,,3,,,FA,,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17052,FACTS Survey,31-Jan-17,,38,HKG,SEA,330,3356,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17053,STARS,31-Jan-17,,65,ATL,LAX,757,6715,,,,,,,,0,N,,,,,,,,,,,,,,,,,,,,,,,,,,NOT TURB RELATED
+TRB17054,"F-FSR,F-ASAP",31-Jan-17,,199,SEA,ICN,767,174,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17055,"STARS,F-ASAP",1-Feb-17,,83,CDG,ATL,764,1808,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17056,"F-FSR,F-ASAP",1-Feb-17,,1938,ATL,DCA,320,3264,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17057,"P-FSR,P-ASAP,F-ASAP,Log Page,MetroTIR",3-Feb-17,,94,NGO,DTW,330,3360,,,,,2,,,0,,,,,,,,,,,,,,,,,,35000,Cruise,2,Y,Y,,Y,Y,Y,
+TRB17058,MetroTIR,3-Feb-17,,408,JFK,LAX,,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17059,STARS,5-Feb-17,,426,JFK,HNL,764,1805,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17060,STARS,5-Feb-17,,1061,,,737,3719,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17061,"FACTS Survey,F-ASAP",7-Feb-17,,73,AMS,ATL,330,3305,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17063,"P-FSR,P-ASAP,Log Page,MetroTIR",7-Feb-17,,1683,SLC,LAS,737,3730,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,Y,Y,,,Y,,
+TRB17064,STARS,7-Feb-17,,855,DTW,SLC,320,3231,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17065,"F-FSR,F-ASAP",8-Feb-17,,28,ATL,LHR,767,1708,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17066,"F-FSR,F-ASAP",8-Feb-17,,167,SEA,NRT,767,175,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17067,STARS,8-Feb-17,,1732,CLE,ATL,M88,956,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17068,"P-ASAP,Log Page",8-Feb-17,,2580,MSP,OKC,717,9542,,,,,2,,,0,,,,,,,,,,,,,,,,,,320,Cruise,2,,Y,,,,Y,
+TRB17069,"F-FSR,F-ASAP",9-Feb-17,,138,DTW,AMS,330,3302,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17070,"FACTS Survey,MetroTIR",9-Feb-17,,201,JNB,ATL,777,7108,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,Cruise,,,Y,,,,,
+TRB17071,STARS,9-Feb-17,,1150,HNL,LAX,737,3867,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17072,"STARS,F-FSR,F-ASAP",10-Feb-17,,107,CDG,SLC,767,1602,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17073,"P-ASAP,MetroTIR",10-Feb-17,,1770,SEA,MSP,737,3853,,,,,,,,0,,,,,,,,,,,,,,,,,,35000,Cruise,,,,,,,,
+TRB17074,FACTS Survey,19-Feb-17,,2571,JFK,SJU,737,3727,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17075,FACTS Survey,20-Feb-17,,2223,ATL,SFO,737,3837,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y|Y,,,,,
+TRB17076,"F-FSR,F-ASAP",12-Feb-17,,1861,SLC,LAS,737,3828,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17078,F-FSR,12-Feb-17,,2064,SDF,ATL,320,3234,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17079,F-FSR,13-Feb-17,,728,ATL,EWR,M88,961,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17080,STARS,15-Feb-17,,1662,SAN,ATL,,177,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,390,,,,,,,,,
+TRB17081,STARS,15-Feb-17,,1726,,,,690,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17082,"F-FSR,F-ASAP",15-Feb-17,,1726,FLL,ATL,757,690,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17083,"STARS,F-FSR,F-ASAP",16-Feb-17,,418,JFK,MXP,330,3315,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17084,"F-FSR,F-ASAP",18-Feb-17,,38,HKG,SEA,330,3354,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17085,F-FSR,18-Feb-17,,150,LIM,ATL,764,1807,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17086,"F-FSR,F-ASAP",19-Feb-17,,83,CDG,ATL,777,7109,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17087,"FACTS Survey,F-FSR,F-ASAP",19-Feb-17,,2257,SLC,LAS,737,3714,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB17088,F-FSR,19-Feb-17,,2384,ATL,FLL,737,3801,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17089,F-FSR,21-Feb-17,,38,HKG,SEA,330,3360,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17090,"F-FSR,F-ASAP",21-Feb-17,,1560,ATL,VPS,717,9542,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17091,FACTS Survey,21-Feb-17,,1918,SNA,ATL,757,6717,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17092,P-ASAP,21-Feb-17,,1981,MSP,SLC,737,3825,,,,,2,,,0,,,,,,,,,,,,,,,,,,9000,Approach,2,Y|Y,Y|Y,,Y,Y,,
+TRB17094,STARS,22-Feb-17,,6,HND,LAX,777,7001,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17095,F-ASAP,24-Feb-17,,659,MSP,PHL,M90,9257,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17096,"P-FSR,F-FSR",24-Feb-17,,2318,SMF,ATL,737,3815,,,,,2,,,0,,,,,,,,,,,,,,,,,,14000,Descent,2,,,,,,Y,
+TRB17097,"F-FSR,F-ASAP",19-Feb-17,,2406,SLC,SAT,319,3160,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17098,FACTS Survey,19-Feb-17,,2571,JFK,SJU,737,3727,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17099,"FACTS Survey,F-FSR,F-ASAP",20-Feb-17,,2223,ATL,SFO,737,3837,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17100,FACTS Survey,20-Feb-17,,2579,SLC,SFO,320,3229,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17101,"STARS,F-FSR",21-Feb-17,,38,HKG,SEA,330,3360,,,,,0,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,
+TRB17102,FACTS Survey,21-Feb-17,,1059,BOS,MSP,320,3212,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17103,FACTS Survey,21-Feb-17,,1918,SNA,ATL,757,6717,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17104,"STARS,F-ASAP",22-Feb-17,,735,ATL,STX,737,3728,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17105,FACTS Survey,22-Feb-17,,2123,ATL,EYW,737,3610,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,"Hard landing, not turbulence"
+TRB17106,STARS,24-Feb-17,,105,ATL,GRU,330,3322,,,,,0|1,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive | 35000,Cruise,0|1,,,,,,,"The pilot only became aware of the potential injury because of a phone call to his house.  No one on the crew mentioned anything about an injury during the deplaning, clearing customs or the bus ride to the hotel."
+TRB17107,STARS,25-Feb-17,,2318,SMF,ATL,737,3815,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,137 | 14000,Descent,2,,,,Y,,Y,
+TRB17108,"F-FSR,F-ASAP",1-Mar-17,,708,DTW,BNA,717,9506,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17109,FACTS Survey,1-Mar-17,,1281,MEM,ATL,M88,9020,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17110,MetroTIR,5-Mar-17,,1865,SFO,ATL,757,6710,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17111,"P-ASAP,Log Page",5-Mar-17,,555,LAS,DTW,320,3266,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,,,,,,
+TRB17112,"STARS,F-FSR,F-ASAP",5-Mar-17,,1793,MSP,TUS,M90,9212,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17113,"P-FSR,F-FSR,P-ASAP,F-ASAP",6-Mar-17,06MAR170208,923,ATL,DEN,M90,9204,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,Y,,,,,
+TRB17114,"P-FSR,P-ASAP",7-Mar-17,07MAR171500,707,MSP,ORD,M90,9258,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,2,Y,Y,,,Y,,
+TRB17115,"STARS,F-FSR,F-ASAP",7-Mar-17,,1340,SLC,MSP,737,3869,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17116,"STARS,F-FSR",8-Mar-17,,1845,DTW,LAX,737,3756,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17117,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",9-Mar-17,09MAR171030,60,GIG,ATL,767,1703,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,17000,Descent,2,,Y,,,,,
+TRB17118,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",9-Mar-17,09MAR170945,110,EZE,ATL,330,3321,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,12000,Descent,,,Y,,,N,,
+TRB17119,"F-FSR,F-ASAP,MetroTIR",9-Mar-17,,852,DTW,ATL,319,3139,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17120,MetroTIR,10-Mar-17,,1852,SLC,DEN,319,3127,,,,,,,,0,,,,,,,,,,,,,,,,,,,Descent,,,,,,,,
+TRB17121,"FACTS Survey,P-ASAP,MetroTIR",11-Mar-17,11MAR172200,25,ATL,MIA,321,3004,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,33000,Cruise,2,,Y,,,,,
+TRB17122,"F-FSR,F-ASAP",11-Mar-17,,185,LAX,PVG,777,7006,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17130,F-ASAP,10-Mar-17,,1325,MSY,LAX,319,3130,,,,,3|2|1,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17132,"STARS,MetroTIR",12-Mar-17,,185,LAX,PVG,777,7006,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17133,STARS,13-Mar-17,,14,SLC,ATL,737,3825,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17134,"F-FSR,F-ASAP",13-Mar-17,,15,ATL,SLC,737,3747,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17136,"F-FSR,F-ASAP",13-Mar-17,,1107,ATL,SEA,757,698,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17137,"STARS,FACTS Survey,F-ASAP",13-Mar-17,,1704,FLL,DTW,737,3805,,,,,1,,,FA,Y,,,,,,,,,,,,,,,,,349,Cruise,,,Y,,,,,
+TRB17138,"F-FSR,F-ASAP",15-Mar-17,,1211,SLC,LAX,757,6700,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17139,FACTS Survey,15-Mar-17,,2447,FLL,DTW,737,3830,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17140,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP",15-Mar-17,15MAR171255,2638,ATL,DCA,321,3007,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,Y,Y,,N,N,,
+TRB17141,"P-ASAP,F-ASAP,MetroTIR",17-Mar-17,17MAR171017,94,NGO,DTW,330,3353,,,,,2|2|2,,,FA,Y | N,,,,,,,,,,,,,,,,,390,Cruise,2|2|2,,Y|Y,,,,,
+TRB17142,STARS,19-Mar-17,,2408,ATL,JAX,737,3864,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17143,"F-FSR,F-ASAP",22-Mar-17,,2195,PHX,SLC,320,3240,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17145,"P-FSR,P-ASAP",23-Mar-17,,2083,ATL,PDX,737,3873,,,,,2,,,FA,,,,,,,,,,,,,,,,,,340,Cruise,2,Y,Y,,Y,Y,,
+TRB17146,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",23-Mar-17,,2302,ATL,EGE,757,683,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,22000,Descent,2,Y,Y,,Y,Y,,
+TRB17147,FACTS Survey,24-Mar-17,,599,HNL,FUK,767,195,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17149,FACTS Survey,24-Mar-17,,2669,LGA,BOS,717,9507,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17150,STARS,24-Mar-17,,919,SXM,ATL,757,674,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17151,"F-FSR,F-ASAP",26-Mar-17,,69,PDX,NRT,767,1502,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17152,"STARS,F-ASAP",26-Mar-17,,75,AMS,ATL,330,3319,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17153,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",28-Mar-17,,743,DCA,DTW,737,3720,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,2,,Y,,,,,
+TRB17154,"F-FSR,F-ASAP",29-Mar-17,,167,NRT,SIN,767,172,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17155,FACTS Survey,29-Mar-17,,1775,ATL,SFO,757,5655,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17156,"P-FSR,P-ASAP,Log Page",29-Mar-17,,1868,AUS,ATL,757,682,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,Y,,,,,
+TRB17157,"FACTS Survey,P-FSR,F-FSR,F-ASAP,MetroTIR",30-Mar-17,,146,SCL,ATL,767,175,,0.16,0.42,,3,,,FA,N,,,,,,,,,,,,,,,,,FL280-FL240,Cruise|Descent|Descent,,,Y,,,,,
+TRB17158,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",30-Mar-17,,1601,LAX,SLC,757,5652,,,,,,,,0,,,,,,,,,,,,,,,,,,37000,Cruise,,Y,Y,,,N,,
+TRB17159,"F-FSR,P-ASAP,F-ASAP",30-Mar-17,,2262,LAX,JFK,767,197,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17160,"F-FSR,F-ASAP",31-Mar-17,,146,SCL,ATL,767,175,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17161,"F-FSR,F-ASAP",2-Apr-17,,2255,ATL,LAX,757,6707,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17162,"STARS,MetroTIR",14-Mar-17,,1588,SEA,ATL,757,697,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17163,"STARS,MetroTIR",15-Mar-17,,54,ATL,LOS,767,1608,,0.24,0.1,,,,,FA,Y,,,,,,,,,,,,,,,,,34000,Cruise,,,,,,,,
+TRB17164,"STARS,MetroTIR",23-Mar-17,,7,LAX,HND,777,7003,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,38000,Cruise,,,,,,,,
+TRB17165,STARS,1-Apr-17,,457,JFK,NAS,M88,975,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17166,STARS,2-Apr-17,,470,SFO,JFK,767,187,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17167,"STARS,F-FSR,F-ASAP",2-Apr-17,,2255,ATL,LAX,757,6707,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17168,MetroTIR,3-Apr-17,,1712,TPA,MSP,M90,9256,,,,,,,,0,,,,,,,,,,,,,,,,,,28000,Cruise,,,,,,,,
+TRB17169,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,Log Page,MetroTIR",4-Apr-17,,16,MCO,DTW,757,5801,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,16000,Cruise|Cruise|Cruise|Climb,3,Y|Y,Y|Y|Y|Y|Y,,Y|Y,Y|Y,,
+TRB17170,FACTS Survey,4-Apr-17,,108,ATL,MAD,764,1812,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17171,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",4-Apr-17,,484,JFK,AUA,737,3759,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,35000,Cruise,2,,N|N,,,,,
+TRB17172,"F-FSR,F-ASAP",5-Apr-17,,83,CDG,ATL,330,3320,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17173,"P-FSR,P-ASAP,MetroTIR",5-Apr-17,,843,ATL,JFK,737,3808,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,Y,,,,,
+TRB17174,"F-FSR,F-ASAP",5-Apr-17,,1283,HNL,LAX,767,189,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17175,"FACTS Survey,P-FSR,P-ASAP",5-Apr-17,,1959,DTW,TPA,757,695,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,39000,Cruise,1,Y,Y|Y|Y,,Y,Y,,
+TRB17176,FACTS Survey,6-Apr-17,,45,DUB,JFK,764,1811,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17177,"F-FSR,F-ASAP",6-Apr-17,,2324,JFK,FLL,320,3226,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17178,"F-FSR,F-ASAP",7-Apr-17,,39,DTW,SEA,737,3839,,,,,3,,,PAX,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17179,MetroTIR,7-Apr-17,,470,SFO,JFK,767,187,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17180,MetroTIR,7-Apr-17,,1453,LAX,ATL,767,1402,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17181,FACTS Survey,8-Apr-17,,405,CDG,JFK,777,7004,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17182,FACTS Survey,9-Apr-17,,296,PVG,NRT,767,198,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17183,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",9-Apr-17,,1421,LAX,MSP,737,3704,,0.12,0.28,,2,,,FA,N,,,,,,,,,,,,,,,,,FL350-FL370,Cruise,2,,Y|Y,,,,,
+TRB17184,STARS,9-Apr-17,,2519,DTW,FLL,757,5805,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17185,"FACTS Survey,MetroTIR",11-Apr-17,,470,SFO,JFK,767,1504,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise|Cruise,,,N,,,,,
+TRB17186,"FACTS Survey,MetroTIR",11-Apr-17,,1194,PDX,SLC,737,3846,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent|Descent,,,Y,,,,,
+TRB17187,"FACTS Survey,F-FSR,P-ASAP,F-ASAP,MetroTIR",11-Apr-17,,1880,BOS,ATL,321,3004,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,28000,Cruise,1,Y,Y|Y,,,,,
+TRB17188,"FACTS Survey,MetroTIR",12-Apr-17,,783,SLC,DEN,319,3126,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17189,"FACTS Survey,F-FSR,F-ASAP",15-Apr-17,,129,SEA,PEK,767,185,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17190,"P-FSR,MetroTIR",16-Apr-17,,1429,ATL,SJC,737,3713,,,,,3,,,0,,,,,,,,,,,,,,,,,,360,Cruise,3,Y,Y,,N,,,
+TRB17191,STARS,16-Apr-17,,38,HKG,SEA,330,3357,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17192,STARS,16-Apr-17,,201,JNB,ATL,777,7105,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17193,"STARS,F-FSR",16-Apr-17,,405,CDG,JFK,777,7004,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17194,STARS,16-Apr-17,,455,JFK,PLS,737,3761,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17195,"F-FSR,F-ASAP",16-Apr-17,,862,PLS,JFK,737,3761,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17196,STARS,18-Apr-17,,229,CDG,CVG,767,177,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17197,"STARS,F-FSR,F-ASAP",18-Apr-17,,791,MSP,BOI,717,9589,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17198,"F-FSR,F-ASAP",18-Apr-17,,1226,RSW,ATL,321,3016,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17199,F-FSR,18-Apr-17,,1932,LAS,DTW,737,3834,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17200,STARS,19-Apr-17,,15,FRA,ATL,764,1805,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17201,F-ASAP,19-Apr-17,,186,PVG,LAX,777,7102,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17202,"FACTS Survey,P-FSR,P-ASAP,MetroTIR",19-Apr-17,,695,BZE,ATL,320,3228,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,35000,Climb|Cruise,2,Y,N|Y,,Y,Y,,
+TRB17203,F-ASAP,20-Apr-17,,47,AMS,JFK,767,193,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17204,F-ASAP,20-Apr-17,,213,ATH,JFK,764,1806,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17205,F-FSR,20-Apr-17,,885,GRR,ATL,717,9559,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17206,"STARS,F-ASAP",21-Apr-17,,139,AMS,DTW,330,3356,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17207,"STARS,F-ASAP",21-Apr-17,,738,DTW,AUS,319,3134,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17208,FACTS Survey,22-Apr-17,,2349,ATL,DCA,321,3003,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,Final Approach|Final,,,Y|Y,,,,,
+TRB17209,"F-FSR,F-ASAP",24-Apr-17,,177,DUB,ATL,330,3324,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17210,"FACTS Survey,P-FSR,P-ASAP,MetroTIR",24-Apr-17,,799,SLC,AUS,319,3130,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,310,Cruise|Cruise|Cruise|Cruise,2,Y,Y|Y|Y|Y,,N,N,,
+TRB17212,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",25-Apr-17,,55,LOS,ATL,767,1607,,.24 | 0.24,.54 | 0.54,,2,,,FA,N,,FA,N,,,,,,,,,,,,,,32000,Cruise,2,,Y,,,Y,,
+TRB17213,FACTS Survey,25-Apr-17,,579,HNL,NRT,767,1506,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17214,FACTS Survey,25-Apr-17,,612,NGO,HNL,767,1506,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,,,,,,
+TRB17215,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP",25-Apr-17,,1992,LGA,ATL,320,3230,,,,FLASK,2,,,FA,Y,,,,,,,,,,,,,,,,,34000 | 360,Cruise,2,Y,,,,,,
+TRB17216,FACTS Survey,26-Apr-17,,104,GRU,ATL,330,3326,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17217,FACTS Survey,26-Apr-17,,579,HNL,NRT,767,196,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17218,STARS,26-Apr-17,,612,NGO,HNL,767,1506,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17219,FACTS Survey,26-Apr-17,,670,PIT,MSP,M90,9259,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17220,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",26-Apr-17,,1210,MSP,STL,737,3732,,.12 |.30,,RST,2,,,FA,Y,,,,,,,,,,,,,,,,,27000,Cruise,2,Y,Y,,N,N,,
+TRB17221,STARS,27-Apr-17,,104,GRU,ATL,330,3326,,,,POPTI,1,,,FA,Y,,,,,,,,,,,,,,,,,340,,,,,,,,,
+TRB17222,FACTS Survey,27-Apr-17,,160,MSP,AMS,330,3308,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17223,STARS,27-Apr-17,,392,PTY,ATL,737,3768,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17224,FACTS Survey,28-Apr-17,,576,NRT,HNL,747,6314,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17225,"F-FSR,F-ASAP",28-Apr-17,,996,ATL,DEN,757,5653,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17226,FACTS Survey,28-Apr-17,,1830,SLC,JFK,737,3821,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17227,FACTS Survey,28-Apr-17,,1875,LGA,TPA,M90,9234,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17228,FACTS Survey,28-Apr-17,,2082,SLC,ATL,321,3013,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17229,"FACTS Survey,P-FSR,P-ASAP",28-Apr-17,,2755,SFO,LAX,717,9515,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,Cruise,,,Y,,,,,
+TRB17230,F-FSR,28-Apr-17,,2756,SFO,LAX,717,9584,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17231,"F-FSR,F-ASAP",28-Apr-17,,2761,SFO,LAX,717,9515,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17232,"P-FSR,Log Page,MetroTIR",29-Apr-17,,165,AMS,MSP,330,3328,,,,,3,,,0,,,,,,,,,,,,,,,,,,24000,Descent,3,,Y,,,,,
+TRB17233,"P-FSR,P-ASAP,F-ASAP,Log Page",29-Apr-17,,797,ATL,STL,M90,9218,,,,,2,,,0,,,,,,,,,,,,,,,,,,16000,Descent,2,Y,Y,,Y,Y,,
+TRB17234,FACTS Survey,29-Apr-17,,1196,LAX,OGG,757,5639,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent|Descent|Desc,,,Y,,,,,
+TRB17235,"F-FSR,F-ASAP,MetroTIR",29-Apr-17,,2517,DTW,MCO,757,5651,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,Descent,,,,,,,,
+TRB17236,FACTS Survey,29-Apr-17,,2880,MCO,DTW,757,5638,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17237,"FACTS Survey,P-FSR,P-ASAP",30-Apr-17,,2082,SLC,ATL,321,3003,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,31000 | INCONCLUSIVE,Cruise,2,,Y,,,,,
+TRB17238,"STARS,F-FSR,F-ASAP,MetroTIR",30-Apr-17,,2147,ATL,PNS,757,627,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,INCONCLUSIVE,Descent,,,,,,,,
+TRB17239,"STARS,FACTS Survey",1-May-17,,150,LIM,ATL,764,1812,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17240,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",2-May-17,,118,BOS,CDG,767,1604,,0.76,0.36,,2 | 3|2,,,0,,,,,,,,,,,,,,,,,,090-140,Climb,,,Y,,,,,
+TRB17241,"F-FSR,F-ASAP",3-May-17,,1267,TPA,JFK,717,9576,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17242,"FACTS Survey,F-FSR,F-ASAP",3-May-17,,2152,ATL,SLC,757,6714,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17243,FACTS Survey,3-May-17,,2564,PBI,ATL,319,3142,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17244,FACTS Survey,4-May-17,,708,TLH,ATL,717,9589,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17245,MetroTIR,4-May-17,,811,MSY,ATL,757,6823,,,,,,,,0,,,,,,,,,,,,,,,,,,27000,Cruise,,,,,,,,
+TRB17246,"P-FSR,P-ASAP",4-May-17,,1487,MSP,MCO,757,5805,,,,,2,,,FA,,,,,,,,,,,,,,,,,,19000,Descent,2,,Y,,Y,Y,,
+TRB17247,FACTS Survey,4-May-17,,1866,ATL,MSP,737,3818,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17248,FACTS Survey,5-May-17,,916,SLC,SEA,737,3703,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17249,"F-FSR,F-ASAP",5-May-17,,1637,DTW,BWI,320,3265,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17250,FACTS Survey,5-May-17,,1947,ATL,MSP,757,5655,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17251,"F-FSR,F-ASAP",5-May-17,,2675,BOS,LGA,717,9519,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17252,FACTS Survey,6-May-17,,106,SLC,CDG,767,183,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,N,,,,,
+TRB17253,"FACTS Survey,F-FSR,F-ASAP",6-May-17,,1624,MSP,ATL,757,5808,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,N,,,,,
+TRB17254,STARS,28-Apr-17,,275,DTW,NRT,747,6307,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17255,"STARS,MetroTIR",13-Apr-17,,209,EDI,JFK,757,6809,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17256,FACTS Survey,2-May-17,,578,NRT,HNL,767,195,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17257,FACTS Survey,3-May-17,,579,HNL,NRT,767,1521,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17259,"F-FSR,F-ASAP",4-May-17,,2049,SFO,ATL,757,5811,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17260,STARS,6-May-17,,445,FCO,JFK,764,1802,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17261,"STARS,F-FSR,F-ASAP,MetroTIR",6-May-17,,2286,FLL,JFK,M88,908,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17262,"STARS,F-FSR,F-ASAP",7-May-17,,474,JFK,VCE,764,1811,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17263,"STARS,F-FSR,F-ASAP",7-May-17,,2294,LAS,JFK,737,3764,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17264,"F-FSR,F-ASAP",9-May-17,,430,JFK,SFO,757,6818,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17265,"STARS,F-FSR,F-ASAP",9-May-17,,1798,SAN,JFK,737,3768,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17266,"F-FSR,F-ASAP",10-May-17,,146,SCL,ATL,767,1602,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17267,"FACTS Survey,F-ASAP",10-May-17,,589,SEA,PVG,767,1607,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17268,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",12-May-17,,61,SFO,ATL,757,5803,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,FL140-FL120,Descent,2,,,,,,,
+TRB17269,FACTS Survey,12-May-17,,576,NRT,HNL,747,6310,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB17270,STARS,13-May-17,,130,ATL,JFK,764,1801,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17271,"FACTS Survey,P-FSR,P-ASAP,F-ASAP,MetroTIR",15-May-17,,38,HKG,SEA,330,3360,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,FL350? | FL310,Cruise,2,Y,Y,,Y,Y,,
+TRB17272,"STARS,F-FSR,F-ASAP",15-May-17,,117,STR,ATL,764,1812,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17273,F-FSR,15-May-17,,1395,MCO,LGA,737,3835,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17274,"P-FSR,P-ASAP,Log Page",17-May-17,,2327,ATL,FLL,321,3011,,,,,1,,,0,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+TRB17276,"P-FSR,F-FSR,F-ASAP",18-May-17,,1641,SAT,ATL,757,669,,,,,2,,,FA,,,,,,,,,,,,,,,,,,14000,Descent,2,,,,Y,,,"The Flight Attendants thought the ""double ding"" sent by the Captain meant the ride would not get any worse and got up to secure the galley. Shortly after that the Fas were injured "
+TRB17277,P-FSR,19-May-17,,1377,SNA,MSP,319,3161,,,,,2,,,FA,,,,,,,,,,,,,,,,,,25000,Descent,2,,Y,,,,,Injury to PAX was caused by a pin on his hat
+TRB17278,"F-FSR,F-ASAP",19-May-17,,1601,SAN,MSP,M90,9213,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17279,MetroTIR,19-May-17,,2500,ATL,DEN,M90,9254,,,,,3,,,0,,,,,,,,,,,,,,,,,,300,Cruise,3,Y,Y,,Y,Y,,
+TRB17280,"F-FSR,F-ASAP",20-May-17,,447,JFK,SAT,737,3765,,,,,3|2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17281,FACTS Survey,20-May-17,,1321,OMA,ATL,M88,967,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17282,F-FSR,20-May-17,,9792,SFO,DTW,757,6712,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17283,"P-FSR,P-ASAP",21-May-17,,1340,LAX,MIA,737,3766,,,,,3,,,FA,,,,,,,,,,,,,,,,,,38000,Cruise,3,Y,Y,,Y,Y,,
+TRB17284,FACTS Survey,21-May-17,,1754,DTW,ALB,M88,911,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,Y,Y,,N,,,Turbulence and precipitation did not show up on radar
+TRB17211,MetroTIR,24-Apr-17,,201,JNB,ATL,777,7106,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,Descent,,,,,,,,
+TRB16299,FACTS Survey,23-Dec-16,,1294,DEN,LGA,320,3256,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+T+A436:AY436RB17144,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",23-Mar-17,,864,DTW,LAS,320,3231,,,,,2|1,,,FA,Y,,,,,,,,,,,,,,,,,29000,Descent,2|1,Y,Y,,N,N,N,Turbulence was not forcasted 
+TRB17285,"F-FSR,F-ASAP",21-May-17,,2045,SJC,SLC,320,3216,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17286,STARS,22-May-17,,197,,,767,1613,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17288,FACTS Survey,22-May-17,,1630,ATL,SAT,737,3836,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17289,F-FSR,22-May-17,,1837,ATL,AUS,737,3837,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17290,"P-FSR,P-ASAP,MetroTIR",23-May-17,,516,CUN,MSP,737,3866,,,,,,,,0,,,,,,,,,,,,,,,,,,34000,Cruise,,,Y,,,Y,,
+TRB17291,FACTS Survey,23-May-17,,712,CUN,DTW,757,5650,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17292,STARS,23-May-17,,1619,ATL,STL,757,627,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17293,FACTS Survey,24-May-17,,72,ATL,JFK,330,3304,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17294,"STARS,F-FSR,F-ASAP",24-May-17,,906,ATL,LGA,737,3820,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17295,"F-FSR,F-ASAP",24-May-17,,1432,ATL,ROA,319,3129,,,,,3|2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17296,"FACTS Survey,F-FSR,F-ASAP",24-May-17,,2128,DTW,MCO,757,5807,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17297,"STARS,F-FSR,F-ASAP",25-May-17,,206,SNN,JFK,767,192,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17298,"FACTS Survey,F-FSR,F-ASAP",26-May-17,,37,LHR,PDX,767,1702,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB17299,"F-FSR,F-ASAP",29-May-17,,155,BOS,DTW,319,3152,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17300,STARS,14-May-17,,39,SEA,HKG,330,3361,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17301,"STARS,F-FSR,F-ASAP",14-May-17,,44,JFK,DUB,764,1811,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17302,"STARS,F-FSR,F-ASAP",16-May-17,,108,ATL,MAD,764,1818,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17303,"STARS,FACTS Survey,P-FSR,F-FSR,F-ASAP,MetroTIR",18-May-17,,1142,SLC,PDX,320,3240,,,,,3 | 2,,,FA,Y,,,,,,,,,,,,,,,,,FL280-FL260,Cruise|Cruise|Descent,,,N,,,,,Encountered Moderate Clear Air Turbulence (CAT)
+TRB17304,STARS,18-May-17,,1172,ATL,LAX,777,7103,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17305,MetroTIR,20-May-17,,2534,ATL,RDU,757,633,,,,,,,,0,,,,,,,,,,,,,,,,,,SFC,Descent,,,,,,,,
+TRB17306,STARS,21-May-17,,7,LAX,HND,777,7003,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17307,"FACTS Survey,F-FSR,MetroTIR",21-May-17,,196,GRU,MCO,767,178,,,,,3 | 1/2/2017,,,FA,Y,,FA,Y,,FA,Y,,,,,,,,,,,34000,Cruise,,,N,,,,,
+TRB17308,"F-FSR,F-ASAP",30-May-17,,275,DTW,NRT,747,6307,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17309,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",30-May-17,30May172130,902,ATL,DTW,767,1404,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,11000,Descent,2,,,,Y,,,
+TRB17310,"F-FSR,F-ASAP",30-May-17,,1152,CMH,ATL,M90,9223,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17311,FACTS Survey,30-May-17,,1951,MSY,ATL,757,669,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17312,"STARS,F-FSR,F-ASAP",30-May-17,,2225,MCO,MSP,757,5803,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17313,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",31-May-17,31May170400,188,DTW,BOS,737,3741,,0.14,0.22,,2,,,FA,Y,,,,,,,,,,,,,,,,,28000 | INCONCLUSIVE,Descent,2,,Y,,,,,
+TRB17314,FACTS Survey,31-May-17,,784,ATL,MTY,717,9527,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,approach | Final Approach,,,Y,,,,,
+TRB17315,"F-FSR,F-ASAP",31-May-17,,835,MSY,LAX,320,3235,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17316,"FACTS Survey,F-FSR,F-ASAP",1-Jun-17,,209,EDI,JFK,757,6805,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,N,,,,,
+TRB17317,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",2-Jun-17,2Jun171530,457,JFK,NAS,320,3254,,,,,3,,,0,,,,,,,,,,,,,,,,,,320,Cruise,,,Y,,,,,The level of turbulence was unexpected and not forcasted
+TRB17318,"P-FSR,F-FSR,P-ASAP,F-ASAP",3-Jun-17,3Jun171020,1792,SAN,ATL,757,5645,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,2,Y,Y,,Y,Y,,
+TRB17319,FACTS Survey,4-Jun-17,,2256,ATL,MCI,M88,957,,,,,2|3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17320,"STARS,F-FSR,F-ASAP",4-May-17,,73,AMS,ATL,330,3309,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17321,MetroTIR,14-May-17,,5517,CLE,LGA,,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17323,STARS,22-May-17,,1377,MSP,SNA,319,3129,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17324,"STARS,F-ASAP",1-Jun-17,,1615,ATL,FLL,321,3016,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17325,STARS,2-Jun-17,,506,SJU,ATL,757,683,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17326,FACTS Survey,3-Jun-17,,2474,JFK,SJU,737,3809,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17327,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP",4-Jun-17,4Jun171430,571,ATL,STT,757,6713,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,380 | INCONCLUSIVE,Cruise,2,Y,Y,,N,N,N,ATC said conditions would not get worse than light chop
+TRB17328,STARS,4-Jun-17,,2481,,,,971,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17329,FACTS Survey,5-Jun-17,,407,JFK,ZRH,767,1602,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17330,STARS,5-Jun-17,,2155,SLC,ATL,757,696,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17331,"STARS,F-FSR,F-ASAP",5-Jun-17,,2482,MLB,ATL,M88,9008,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17332,"F-FSR,F-ASAP",6-Jun-17,,667,DTW,BOS,M88,999,,,,,1,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17333,"MetroTIR | MetroTIR,P-ASR",7-Jun-17,8Jun170530,466,JFK,GLA,757,6813,,,,,3,,,0,,,,,,,,,,,,,,,,,,225-230,Climb,3,Y,Y,,N,,N,Encountered severe turbulence within but below listed altitudes in TP area NE 03 (current at the time). | Encountered severe turbulence within but 1000ft below listed altitudes in TP area NE 04 (current at the time).
+TRB17334,STARS,7-Jun-17,,2920,BOS,TPA,319,3159,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17335,"P-FSR,P-ASAP",8-Jun-17,8Jun170530,466,JFK,GLA,757,6813,,,,,,,,FA,,,,,,,,,,,,,,,,,,225-230,Climb,3,Y,Y,,N,N,N,Encountered severe turbulence within but below listed altitudes in TP area NE 03 (current at the time). | Duplicate listing. Flight date was 07Jun17
+TRB17336,FACTS Survey,9-Jun-17,,2332,LAX,SLC,737,3733,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,approach | Final Approach,,,Y,,,,,
+TRB17337,"F-FSR,F-ASAP",10-Jun-17,,598,FUK,HNL,767,193,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17338,FACTS Survey,7-Jun-17,,1610,DEN,DTW,M90,9240,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17339,F-FSR,8-Jun-17,,179,AMS,PDX,330,3307,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17340,STARS,10-Jun-17,,33,LHR,ATL,737,3754,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17341,F-FSR,12-Jun-17,,483,JFK,SEA,767,172,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17342,"STARS,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",12-Jun-17,,574,BOI,SLC,737,3766,,,,,2,,,FA,Y,,FA,N,,FA,N,,FA,Y,,,,,,,,FL240-FL190,Descent,2,,Y,,,,,Descended through rain shower tops. 
+TRB17343,P-FSR,12-Jun-17,,1597,MSP,BZN,320,3257,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17344,"FACTS Survey,F-FSR,F-ASAP",12-Jun-17,,1852,SMF,ATL,757,669,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17345,"STARS,F-ASAP,MetroTIR",12-Jun-17,,2266,ATL,DEN,757,6823,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,UNKNOWN | INCONCLUSIVE,Cruise,,,,,,,,"Unknown timing, just within first 30 min"
+TRB17346,"P-FSR,P-ASAP,MetroTIR",12-Jun-17,,2450,YVR,ATL,737,3740,,,0.04,,2,,,0,,,,,,,,,,,,,,,,,,35000,Cruise,2,Y,Y,,,Y,,
+TRB17347,FACTS Survey,13-Jun-17,,404,JFK,CDG,777,7006,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,N,,,,,
+TRB17348,"FACTS Survey,F-FSR,F-ASAP",15-Jun-17,,405,CDG,JFK,777,7004,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,N,,,,,
+TRB17349,"P-FSR,P-ASAP,MetroTIR",15-Jun-17,15Jun170100,810,SLC,IND,319,3119,,,,,2,,,0,,,,,,,,,,,,,,,,,,33000,Cruise,2,,N,,,,,
+TRB17350,"F-FSR,F-ASAP",15-Jun-17,,1951,ATL,MSY,M90,9212,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17351,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",16-Jun-17,17Jun170830 | 16Jun170830,110,EZE,ATL,764,1813,,0.06,0.2,25.67N/81.525W,3,,,FA,Y,,FA,Y,,FA,N,,FA,Y,,,,,,,,359,Cruise,,Y,Y,,N,N,,Isolated rain shower top to FL360. 5 Recordable injuries. | Turbulence was not depicted on either pilots radar
+TRB17352,MetroTIR,16-Jun-17,,220,JFK,SLC,737,3702,,0.38,0.54,,,,,0,,,,,,,,,,,,,,,,,,360,Cruise,,,,,,,,
+TRB17353,"FACTS Survey,F-ASAP",16-Jun-17,,720,ATL,OMA,M88,956,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17354,FACTS Survey,17-Jun-17,,99,CDG,DTW,330,3328,,,,,3|2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y|N,,,,,
+TRB17355,FACTS Survey,18-Jun-17,,81,BRU,ATL,767,184,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17356,FACTS Survey,18-Jun-17,,353,ATL,LIR,757,633,,,,,2,,,FA,Y | N,,,,,,,,,,,,,,,,,,APPROACH,,,Y,,,,,
+TRB17357,"STARS,F-FSR,P-ASAP,F-ASAP",19-Jun-17,19Jun172310 | 19Jun172332,937,LAX,CUN,737,3766,,,,21.4N/87.6W,2,,,FA,Y,,,,,,,,,,,,,,,,,100,Descent,2,,,,,,,Tstm on Descent
+TRB17358,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",19-Jun-17,19Jun172010,2444,FLL,DTW,M90,9214,,,,,3,,,0,,,,,,,,,,,,,,,,,,,,3,,,,Y,Y,,
+TRB17359,MetroTIR,20-Jun-17,,500,SDQ,ATL,737,3845,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17360,FACTS Survey,20-Jun-17,,1510,DTW,AUS,319,3164,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17361,STARS,20-Jun-17,,1816,DEN,ATL,757,674,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17362,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",20-Jun-17,20Jun172000,2172,ATL,MCO,321,3001,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,9000,approach,2,,Y,,,,,
+TRB17363,FACTS Survey,20-Jun-17,,2831,MCO,ATL,321,3012,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,approach,,,Y,,,,,
+TRB17365,"F-FSR,F-ASAP",21-Jun-17,,2418,ATL,LGA,320,3264,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17366,"F-FSR,F-ASAP",13-Jun-17,,199,SEA,ICN,767,1701,,,,,3|2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17367,STARS,13-Jun-17,,406,JFK,SNN,717,9529,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17368,FACTS Survey,16-Jun-17,,185,LAX,PVG,777,7107,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17369,STARS,17-Jun-17,,148,EWR,AMS,767,1521,,,,,,,,FA,Y | N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17370,"P-ASAP,MetroTIR",22-Jun-17,22Jun171845,1052,ATL,MKE,757,633,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,Y,,N,N,,
+TRB17371,FACTS Survey,22-Jun-17,,1654,TPA,JFK,M88,968,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,Y,,,,,
+TRB17372,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",22-Jun-17,,2172,MCO,ATL,321,3008,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,Wake turbulence event
+TRB17374,FACTS Survey,25-Jun-17,,119,CDG,BOS,767,171,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,approach,,,Y,,,,,
+TRB17375,"STARS,F-FSR,F-ASAP",22-Jun-17,22Jun171950,1992,LGA,ATL,320,3249,,,,EMI,,,,FA,Y,,,,,,,,,,,,,,,,,320,Cruise,,,,,,,,
+TRB17376,"STARS,F-FSR",23-Jun-17,,50,SLC,LHR,767,1706,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17377,FACTS Survey,24-Jun-17,,166,NRT,SEA,767,177,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17378,STARS,24-Jun-17,,472,,,767,186,,0.14,0.26,,,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,
+TRB17379,"F-FSR,F-ASAP",25-Jun-17,,167,SEA,NRT,767,179,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17380,"STARS,F-FSR,F-ASAP",25-Jun-17,,475,VCE,JFK,764,1813,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17381,"STARS,F-FSR",25-Jun-17,,624,PHX,SLC,320,3275,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,
+TRB17382,FACTS Survey,26-Jun-17,,296,PVG,NRT,767,1612,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17383,FACTS Survey,26-Jun-17,,679,SLC,PSC,320,3262,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17384,"F-FSR,F-ASAP",27-Jun-17,,778,MBJ,ATL,757,5650,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17385,FACTS Survey,28-Jun-17,,25,DUS,ATL,764,1821,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17386,FACTS Survey,28-Jun-17,,2542,DEN,DTW,737,3877,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB17387,FACTS Survey,28-Jun-17,,48,JFK,AMS,330,3323,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17388,FACTS Survey,28-Jun-17,,440,JFK,SLC,737,3725,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17389,"STARS,F-FSR,F-ASAP",28-Jun-17,,1427,LAX,OGG,757,5649,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,
+TRB17390,F-FSR,28-Jun-17,,2204,LAX,SLC,737,3832,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17391,STARS,29-Jun-17,,28,ATL,LHR,320,3264,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,
+TRB17392,"F-FSR,F-ASAP",29-Jun-17,,39,ATL,SEA,757,674,,,,,1,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17393,"STARS,FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",29-Jun-17,,1529,MSP,BOS,737,3744,,,,,1 | 2|1|2|1,,,FA,Y,,FA,Y,,FA,Y,,,,,,,,,,,27000,Cruise,2|1|2|1,,N|N|N|Y|Y,,,,,
+TRB17394,FACTS Survey,29-Jun-17,,2062,MSP,BOS,320,3255,,,,,1|2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N|Y,,,,,
+TRB17395,"STARS,FACTS Survey,F-FSR,F-ASAP",29-Jun-17,,2404,LAS,SLC,737,3734,,,,,3 | 3|3|2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17396,"P-FSR,P-ASAP,F-ASAP,MetroTIR",1-Jul-17,,1159,BUF,ATL,M88,944,,,,,,,,0,,,,,,,,,,,,,,,,,,15000,Descent,,,Y,,,Y,,
+TRB17397,"F-FSR,F-ASAP",2-Jul-17,,66,ATL,ZRH,764,1801,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17398,"STARS,FACTS Survey,F-FSR,F-ASAP",2-Jul-17,,2238,ATL,DCA,321,3022,,,,,3 | 3 | 3|2,,,FA,N,,,,,,,,,,,,,,,,,,DESCENT,,,N,,,,,
+TRB17399,"F-FSR,F-ASAP",4-Jul-17,,7,LAX,HND,777,7104,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17400,FACTS Survey,4-Jul-17,,2536,SEA,MSP,757,5809,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17401,FACTS Survey,1-Jun-17,,1717,MYR,ATL,M88,9015,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Final Approach,,,Y,,,,,
+TRB17402,"P-FSR,P-ASAP,MetroTIR",15-Jun-17,,2517,DTW,MCO,737,3819,,0.14,0.28,,1,,,FA,Y,,,,,,,,,,,,,,,,,BTWN FL120-FL007,Descent,1,,Y,,,,,
+TRB17403,STARS,17-Jun-17,17Jun170830,110,EZE,ATL,764,1813,,0.06,0.2,25.67N/81.525W,3,,,FA,Y,,FA,Y,,FA,Y,,FA,Y,,FA,Y,,,,,FL359,Cruise,,,,,,,,Isolated cell. Below TP issuance criteria.
+TRB17404,FACTS Survey,21-Jun-17,,1972,AUS,JFK,319,3164,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17405,"FACTS Survey,F-FSR,F-ASAP",1-Jul-17,,22,DTW,MUC,767,1200,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB17406,FACTS Survey,2-Jul-17,,555,PHX,SLC,320,3260,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,APPROACH,,,Y,,,,,
+TRB17407,"STARS,P-ASAP,F-ASAP",3-Jul-17,,799,MSP,FCA,320,3233,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,2,,Y,,,,,
+TRB17408,FACTS Survey,4-Jul-17,,635,DTW,BNA,717,9550,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17409,STARS,4-Jul-17,,1299,MSP,BWI,M90,9239,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17410,STARS,5-Jul-17,,7,LAX,HND,777,7002,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17411,"F-FSR,F-ASAP",5-Jul-17,,38,HKG,SEA,330,3353,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17412,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",5-Jul-17,,144,SEA,AMS,330,3353,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,,N|Y|Y|Y,,,,,
+TRB17413,"STARS,F-FSR,F-ASAP",6-Jul-17,,1896,SLC,RDU,737,3754,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17414,FACTS Survey,7-Jul-17,,1353,ATL,PNS,737,3774,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17415,FACTS Survey,7-Jul-17,,1607,ATL,CHS,M88,976,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17416,"F-FSR,F-ASAP",7-Jul-17,,2657,PHX,DTW,320,3259,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17417,"F-FSR,F-ASAP",8-Jul-17,,1058,MCO,ATL,321,3003,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17418,"F-FSR,F-ASAP",8-Jul-17,,1227,ATL,DTW,757,679,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17419,"STARS,F-FSR,F-ASAP,MetroTIR",8-Jul-17,,1826,FLL,ATL,321,3013,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,120,Descent,,,,,,,,"According to ASAP, entered small cumulus cloud. "
+TRB17420,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",8-Jul-17,,1827,FLL,ATL,321,3016,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,2,Y,Y,,,N,,
+TRB17421,FACTS Survey,8-Jul-17,,9815,JFK,ATL,767,1502,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17422,"P-FSR,P-ASAP,MetroTIR",9-Jul-17,,648,HAV,ATL,319,3143,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,34900,Cruise,2,,Y,,,Y,,
+TRB17423,"P-FSR,F-FSR,P-ASAP,MetroTIR",9-Jul-17,,1527,ATL,FLL,321,3013,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,,,,,,,
+TRB17424,"FACTS Survey,MetroTIR",10-Jul-17,,177,DUB,ATL,330,3304,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,Cruise,,,N,,,,,Differing pireps about event and questionable injury location. 
+TRB17425,FACTS Survey,10-Jul-17,,434,JFK,SEA,757,6804,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17426,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP",10-Jul-17,10JUL171734,1762,BOS,ATL,321,3018,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,360,Cruise,2,,N|N|Y,,,Y,,Trof line.
+TRB17427,"STARS,F-FSR",7-Jul-17,,1187,LAX,SLC,737,3714,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,EDR Turbulence recorded but no pireps of turbulence. No timing info. 
+TRB17428,"STARS,F-FSR,F-ASAP",8-Jul-17,,356,LIR,ATL,757,5650,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17429,"F-FSR,F-ASAP",9-Jul-17,,199,SEA,ICN,767,1702,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17430,"STARS,F-FSR,F-ASAP",10-Jul-17,,2064,LGA,FLL,320,3254,,,,,,,,FA,Y | Y | N,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,Several periods of turbulence reported but no timing information. 
+TRB17431,"STARS,F-FSR,F-ASAP",11-Jul-17,,2869,BOI,MSP,M90,9213,,,,,,,,0 | FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,2 smooth pireps. Unknown timing. 
+TRB17432,STARS,12-Jul-17,,23,MUC,DTW,767,175,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,"No pireps of turbulence, mention of injuries, or timing info. "
+TRB17433,"STARS,F-FSR,F-ASAP",12-Jul-17,,2606,MSP,BDL,717,9540,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17434,"FACTS Survey,F-FSR,P-ASAP,F-ASAP",13-Jul-17,14JUL170028,473,LAX,JFK,767,181,,0.18,0.38,,2,,,FA,Y,,,,,,,,,,,,,,,,,227-193,Descent,2,,Y,,,Y,,Just EDR turb in flight history. ASAP reported a strong jolt. 
+TRB17435,"STARS,FACTS Survey,F-FSR,P-ASAP,F-ASAP",13-Jul-17,13JUL171530,557,DTW,MEX,757,6717,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,320,Cruise,2,Y,N|Y,,,Y,,In tops of rain showers. 
+TRB17436,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",14-Jul-17,,576,NRT,HNL,747,6306,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,35000,Cruise,,,N,,,N,,
+TRB17437,"F-FSR,F-ASAP",14-Jul-17,,1707,ATL,EYW,737,3603,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,STARS has this recordable on 1707 EYW-ATL leg. Unknown what is correct. 
+TRB17438,FACTS Survey,15-Jul-17,,41,LAX,SYD,777,7108,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17439,FACTS Survey,15-Jul-17,,324,SDQ,ATL,757,659,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17440,FACTS Survey,15-Jul-17,,1350,CHS,ATL,717,9518,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17441,"P-FSR,F-FSR,F-ASAP",15-Jul-17,,1464,MSP,DCA,M90,9253,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17443,STARS,24-Jun-17,,2172,,,321,3008,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17444,"STARS,MetroTIR",4-Jul-17,04JUL172147,117,ATL,BHM,737,3777,,0.3,0.4,,,,,FA,Y,,,,,,,,,,,,,,,,,BELOW FL100,Climb,,,,,,,,Injury occurred while seated in jumpseat on climb out of ATL.  | Injury occurred while seated in jumpseat on climb out of ATL with tstms in the area.  
+TRB17445,MetroTIR,8-Jul-17,,2925,SLC,SFO,737,3763,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17446,"P-ASAP,MetroTIR",9-Jul-17,,175,MXP,ATL,764,1815,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,2,,Y,,,Y,,
+TRB17447,STARS,12-Jul-17,,110,EZE,ATL,764,1801,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17448,MetroTIR,12-Jul-17,,1140,LAX,ATL,,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17449,STARS,14-Jul-17,,2245,ATL,AUS,320,3244,,,,,,,,0 | FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,Did not see this come across as Recordable on STARS. Inconclusive if it is recordable. 
+TRB17450,"F-FSR,P-ASAP,F-ASAP,MetroTIR",15-Jul-17,,739,SJD,SLC,320,3210,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,2,,,,,,,
+TRB17451,"F-FSR,F-ASAP",16-Jul-17,,1551,MSP,LAS,M90,9255,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17452,"P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",17-Jul-17,,1713,ATL,BHM,737,3774,,0.26,0.48,,3,,,0,,,,,,,,,,,,,,,,,,8800,Climb,,,Y,,,,,
+TRB17453,"FACTS Survey,P-FSR,F-FSR,F-ASAP,MetroTIR",17-Jul-17,,2166,ATL,PDX,737,3808,,,,,3,,,FA,Y | N | Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,Cruise,,,N,,,,,Wake turbulence
+TRB17454,FACTS Survey,18-Jul-17,,40,SYD,LAX,777,7109,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17455,"FACTS Survey,P-ASAP",18-Jul-17,,75,AMS,ATL,330,3314,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,,Y,,,,,
+TRB17456,FACTS Survey,18-Jul-17,,363,ATL,MEX,737,3738,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17457,STARS,18-Jul-17,,2166,ATL,PDX,737,3808,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,Inconclusive,,,,,,,,,Inconclusive
+TRB17458,"F-FSR,P-ASAP,F-ASAP,MetroTIR",19-Jul-17,,115,BCN,ATL,330,3329,,0.28,0.6,,2,,,0,,,,,,,,,,,,,,,,,,11800,Descent,2,,Y,,,,,
+TRB17459,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",19-Jul-17,,482,JFK,PUJ,737,3752,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17460,"FACTS Survey,F-ASAP",19-Jul-17,,632,SEA,LAX,737,3703,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,approach,,,Y,,,,,
+TRB17461,"FACTS Survey,F-FSR,F-ASAP",19-Jul-17,,2198,JAC,ATL,757,660,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,approach,,,Y,,,,,
+TRB17463,FACTS Survey,17-Jul-17,,1497,LAS,MSP,M90,9210,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17464,"STARS,F-FSR,F-ASAP",19-Jul-17,,902,ATL,DTW,M88,976,,,,,,,,FA,Y | Y | Y | N,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,No information. 
+TRB17465,FACTS Survey,20-Jul-17,,808,MSP,BOS,320,3254,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17466,"F-FSR,F-ASAP",21-Jul-17,,10,MSP,LHR,767,182,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17467,FACTS Survey,21-Jul-17,,27,ATL,ICN,777,7107,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17468,FACTS Survey,21-Jul-17,,645,IND,MSP,319,3151,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17469,MetroTIR,21-Jul-17,,1167,STL,MSP,M90,9236,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17470,"F-FSR,F-ASAP",21-Jul-17,,2274,BOS,SLC,737,3751,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17471,FACTS Survey,22-Jul-17,,2238,ATL,DCA,321,3019,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,APPROACH,,,Y,,,,,
+TRB17472,"FACTS Survey,F-ASAP,MetroTIR",23-Jul-17,,26,ICN,ATL,777,7109,,0.18,0.28,,3,,,FA,N,,,,,,,,,,,,,,,,,32000,Cruise,,,Y,,,,,
+TRB17473,"F-FSR,F-ASAP",23-Jul-17,,845,PBI,ATL,M88,965,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,No timing info. 
+TRB17474,"FACTS Survey | FACTS Survey,P-ASAP",23-Jul-17,23Jul170100,1683,GSO,ATL,M88,910,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,12000,APPROACH,,,Y,,,,,
+TRB17475,"P-FSR,P-ASAP",23-Jul-17,,2173,LAX,MSP,757,5801,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17476,"F-FSR,F-ASAP",23-Jul-17,,2859,SEA,DTW,737,3816,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17477,"P-FSR,P-ASAP",23-Jul-17,23Jul170445,1432,ATL,RDU,319,3145,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,20000,Cruise,2,Y,Y,,Y,Y,,
+TRB17478,FACTS Survey,23-Jul-17,,1701,ATL,LAS,737,3859,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17480,"FACTS Survey | FACTS Survey,P-ASAP",25-Jul-17,25Jul171130,539,CID,ATL,717,9505,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,16000,Descent,2,,Y,,,,,Wake turbulence
+TRB17481,STARS,9-Jul-17,,1420,ATL,FLL,321,3018,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,No information.
+TRB17482,"STARS,F-FSR,F-ASAP",12-Jul-17,,1281,ATL,MEM,M88,9000,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17483,FACTS Survey,13-Jul-17,,512,MEX,DTW,757,6717,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,,,,,,
+TRB17484,FACTS Survey,15-Jul-17,,1995,DCA,MSP,M90,9253,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17485,STARS,20-Jul-17,,67,ATL,TPA,737,3811,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17486,STARS,21-Jul-17,,474,JFK,VCE,764,1819,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17487,"F-FSR,F-ASAP",23-Jul-17,,200,ATL,JNB,777,7105,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17488,"STARS,F-ASAP,MetroTIR | STARS,F-ASAP,MetroTIR,P-ASR",23-Jul-17,23JUL171925 | 23Jul171920,588,SEA,MSP,757,5810,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,33000,Cruise,,,,,,,,Turbulence of unknown severity occurred in back but not felt in front.  | Captain and purser did not feel any turbulence
+TRB17489,"FACTS Survey,P-FSR,P-ASAP",24-Jul-17,24Jul171530,1169,MIA,LAX,737,3740,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,38000,Cruise,2,Y,Y,,Y,Y,,
+TRB17490,FACTS Survey,24-Jul-17,,2928,YVR,LAX,319,3123,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17491,STARS,25-Jul-17,,127,AMS,BOS,330,3319,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17492,"F-FSR,F-ASAP",25-Jul-17,,1833,CVG,SLC,320,3263,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17493,"STARS,F-FSR,F-ASAP,MetroTIR",25-Jul-17,,2958,SLC,SEA,737,3818,,0.2,0.32,,3,,,FA,Y,,FA,N,,,,,,,,,,,,,,32500,Climb,,,,,,,,Isolated cell. 
+TRB17494,"STARS,F-ASAP",26-Jul-17,,2,LHR,JFK,767,1602,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17495,"STARS,F-FSR,F-ASAP",26-Jul-17,,120,HND,MSP,777,7008,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17497,"F-FSR,F-ASAP",27-Jul-17,,2586,ATL,MCO,321,3016,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17498,"FACTS Survey,P-FSR,P-ASAP,MetroTIR",28-Jul-17,28Jul171430,95,ATL,DTW,757,5649,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,35000,Cruise,2,,Y,,,,,
+TRB17499,FACTS Survey,28-Jul-17,,1110,TVC,MSP,319,3136,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17500,"P-FSR,P-ASAP,MetroTIR",28-Jul-17,28Jul170025,1701,LAS,ATL,737,3863,,0.12,0.16,,1,,,FA,N,,,,,,,,,,,,,,,,,33000,Cruise,1,,Y,,,,,
+TRB17501,MetroTIR,30-Jul-17,,801,ATL,RSW,M90,9219,,,,,,,,0,,,,,,,,,,,,,,,,,,33000,,,,,,,,,
+TRB17502,"FACTS Survey,F-ASAP",30-Jul-17,,1496,LGA,MSP,319,3139,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB17503,"P-FSR,P-ASAP",30-Jul-17,30Jul171545,2803,MIA,SLC,737,3756,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,Y,Y,LFA disregarded Captain's orders
+TRB17504,"STARS,MetroTIR",24-Jul-17,,61,ATL,GIG,330,3303,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,,,,,,,,,
+TRB17505,FACTS Survey,26-Jul-17,,517,SFO,JFK,767,1601,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Climb,,,Y,,,,,
+TRB17506,STARS,27-Jul-17,,1840,LAS,DTW,737,3807,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17507,"STARS,FACTS Survey,MetroTIR",27-Jul-17,,2037,JFK,AUS,319,3152,,,,,2,,,FA,Y,,,,,,,,,,,,,,,,,INCONCLUSIVE,Cruise,,,Y,,,,,
+TRB17508,"P-FSR,P-ASAP,MetroTIR",31-Jul-17,,6,HND,LAX,777,7008,,,,,,,,0,,,,,,,,,,,,,,,,,,350,Cruise,,Y,Y,,,N|Y,,
+TRB17509,FACTS Survey,31-Jul-17,,638,ATL,NAS,M88,925,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17510,"F-FSR,F-ASAP",1-Aug-17,,79,CDG,PHL,757,6816,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17511,"STARS,F-ASAP",1-Aug-17,,146,SCL,ATL,767,1704,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17512,FACTS Survey,2-Aug-17,,88,ATL,DUS,764,1820,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17513,"P-FSR,P-ASAP",2-Aug-17,,549,ATL,SJU,757,6713,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,2,,Y,,,N,,
+TRB17514,"STARS,FACTS Survey,F-FSR,F-ASAP",2-Aug-17,,2520,SFO,DTW,757,5805,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17515,"P-FSR,P-ASAP,MetroTIR",3-Aug-17,,64,ATL,FCO,330,3314,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,Y,,,Y,,
+TRB17516,"STARS,F-FSR,F-ASAP",3-Aug-17,,1616,DEN,ATL,737,3742,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17517,"F-FSR,F-ASAP",4-Aug-17,,129,SEA,PEK,767,1705,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17518,"STARS,F-FSR,F-ASAP",5-Aug-17,,54,ATL,LOS,767,1613,,,,,3|1,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17519,"F-FSR,P-ASAP,F-ASAP,MetroTIR",5-Aug-17,,437,JFK,BDA,319,3162,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,,Y,,,N,,
+TRB17520,"FACTS Survey,F-FSR,P-ASAP,F-ASAP",5-Aug-17,,469,TLV,JFK,777,7003,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17521,MetroTIR,5-Aug-17,,582,PVG,DTW,747,6309,,,,,,,,0,,,,,,,,,,,,,,,,,,31000,Cruise,,,,,,,,
+TRB17522,FACTS Survey,5-Aug-17,,1110,MSP,TVC,319,3160,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,APPROACH,,,Y,,,,,
+TRB17523,FACTS Survey,6-Aug-17,,198,ICN,SEA,767,172,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17524,STARS,6-Aug-17,,570,LAX,DTW,737,3705,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17525,FACTS Survey,6-Aug-17,,1559,DTW,LAX,737,3876,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17526,FACTS Survey,6-Aug-17,,1771,MEM,ATL,M88,929,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17527,"STARS,F-ASAP",6-Aug-17,,1905,MCO,ATL,321,3005,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17528,"P-FSR,P-ASAP,MetroTIR",7-Aug-17,,374,SAL,ATL,320,3235,,,,,2,,,0,,,,,,,,,,,,,,,,,,,,2,Y,Y,,,Y,,
+TRB17529,"STARS,F-ASAP",7-Aug-17,,1061,LAX,MCO,757,686,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17530,"F-FSR,F-ASAP",7-Aug-17,,2937,BOS,ATL,321,3014,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17531,"P-FSR,P-ASAP,MetroTIR",8-Aug-17,,328,SXM,JFK,757,672,,,,,2,,,0,,,,,,,,,,,,,,,,,,40000,Cruise,2,Y,Y,,,N|Y,,
+TRB17532,"STARS,FACTS Survey",8-Aug-17,,1469,MSP,HNL,330,3302,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17533,FACTS Survey,9-Aug-17,,29,LHR,ATL,767,182,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17534,"F-FSR,F-ASAP",9-Aug-17,,412,JFK,NCE,764,1820,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17535,MetroTIR,9-Aug-17,,598,FUK,HNL,767,192,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17536,"F-FSR,F-ASAP",10-Aug-17,,212,NCE,JFK,764,1820,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17537,FACTS Survey,10-Aug-17,,2510,DEN,ATL,M90,9242,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17538,"F-FSR,F-ASAP",11-Aug-17,,489,JFK,PUJ,320,3254,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17539,"F-FSR,F-ASAP",11-Aug-17,,1458,SLC,ORD,320,3251,,,,,3,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17540,FACTS Survey,11-Aug-17,,1639,SAN,ATL,767,1401,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17541,FACTS Survey,11-Aug-17,,2155,SLC,ATL,757,5647,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,,,Y,,,,,
+TRB17542,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",11-Aug-17,,2249,SLC,IAD,737,3765,,0.18,0.28,,2,,,FA,N,,,,,,,,,,,,,,,,,37000,Cruise,2,Y,Y|N|Y|Y|Y,,,N|Y,,
+TRB17543,"F-FSR,F-ASAP",11-Aug-17,,2846,SLC,MSP,320,3265,,,,,3|2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17544,"P-FSR,F-FSR,F-ASAP,MetroTIR",12-Aug-17,,41,LAX,SYD,777,7104,,0.16,0.42,,,,,FA,N,,,,,,,,,,,,,,,,,35000,Cruise,,,,,,,,
+TRB17545,"P-FSR,F-FSR,F-ASAP,MetroTIR",12-Aug-17,,2018,MCO,ATL,321,3002,,,,,3,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17546,"P-FSR,P-ASAP",13-Aug-17,,1622,DTW,LAS,737,3854,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,2,,Y,,,,,
+TRB17547,"STARS,F-ASAP",5-Aug-17,,2805,JFK,LAS,757,683,,,,,3,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17548,"F-FSR,F-ASAP",11-Aug-17,,2553,ATL,DTW,737,3830,,,,,2|3|2,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17549,"F-FSR,F-ASAP",12-Aug-17,,210,MAD,JFK,764,1817,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17550,"STARS,F-FSR,F-ASAP",12-Aug-17,,444,JFK,FCO,330,3308,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17551,STARS,12-Aug-17,,2143,TPA,LGA,717,9561,,,,,,,,FA,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17552,STARS,13-Aug-17,,41,LAX,SYD,777,7110,,,,,,,,FA,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17553,FACTS Survey,14-Aug-17,,15,FRA,ATL,764,1818,,,,,1,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
+TRB17554,F-FSR,14-Aug-17,,60,GIG,ATL,330,3322,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17556,"P-FSR,P-ASAP",15-Aug-17,,2842,SLC,MSP,M90,9264,,,,,2,,,FA,,,,,,,,,,,,,,,,,,,,2,,Y,,,Y,,
+TRB17557,"FACTS Survey,P-FSR,F-FSR,P-ASAP,F-ASAP,MetroTIR",16-Aug-17,,421,JFK,SVO,767,198,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,33000,Cruise,,,Y,,,,,
+TRB17558,"FACTS Survey,MetroTIR",16-Aug-17,,470,JFK,AGP,767,1501,,0.14,0.36,,3,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17559,FACTS Survey,16-Aug-17,,854,SFO,DTW,757,5811,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,Y,,,,,
+TRB17560,"F-FSR,F-ASAP",16-Aug-17,,1586,ATL,LGA,320,3252,,,,,,,,FA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRB17561,"FACTS Survey,P-FSR,P-ASAP",18-Aug-17,,1658,DTW,SFO,757,672,,,,,3,,,FA,N,,,,,,,,,,,,,,,,,,APPROACH,,,Y,,,,,
+TRB17562,"FACTS Survey,P-FSR,P-ASAP",18-Aug-17,,2922,SLC,STL,M90,9213,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Descent,2,,Y,,,Y,,
+TRB17563,FACTS Survey,20-Aug-17,,1965,LGA,DEN,319,3134,,,,,2,,,FA,N,,,,,,,,,,,,,,,,,,Cruise,,,N,,,,,
